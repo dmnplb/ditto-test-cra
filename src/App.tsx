@@ -12,8 +12,15 @@ const App = () => (
         <ul>
           <li>
             <Ditto componentId="app-io.menu.messaggi" />
+          </li>
+          <li>
             <Ditto componentId="app-io.menu.portafoglio-1" />
+          </li>
+          <li>
             <Ditto componentId="app-io.menu.profilo" />
+          </li>
+          <li>
+            <Ditto componentId="app-io.menu.servizi" />
           </li>
         </ul>
         <img src={logo} className="App-logo" alt="logo" />
