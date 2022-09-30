@@ -5,6 +5,7 @@ module.exports = {
         "name": "App IO/Legal/Informativa Privacy",
         "text": "Informativa Privacy",
         "status": "REVIEW",
+        "folder": null,
         "tags": [
           "LEGAL"
         ]
@@ -13,6 +14,7 @@ module.exports = {
         "name": "App IO/Legal/Termini e Privacy",
         "text": "Termini e Privacy",
         "status": "FINAL",
+        "folder": null,
         "tags": [
           "LEGAL"
         ]
@@ -21,6 +23,7 @@ module.exports = {
         "name": "App IO/Menu/messaggi",
         "text": "messaggi",
         "status": "FINAL",
+        "folder": null,
         "notes": "Con iniziale minuscola solo quando è voce del menu",
         "tags": [
           "MENU"
@@ -30,6 +33,7 @@ module.exports = {
         "name": "App IO/Menu/portafoglio",
         "text": "portafoglio",
         "status": "FINAL",
+        "folder": null,
         "notes": "Con iniziale minuscola solo quando è voce del menu",
         "tags": [
           "MENU"
@@ -39,6 +43,7 @@ module.exports = {
         "name": "App IO/Menu/profilo",
         "text": "profilo",
         "status": "FINAL",
+        "folder": null,
         "notes": "Con iniziale minuscola solo quando è voce del menu",
         "tags": [
           "MENU"
@@ -48,6 +53,7 @@ module.exports = {
         "name": "App IO/Menu/servizi",
         "text": "servizi",
         "status": "FINAL",
+        "folder": null,
         "notes": "Con iniziale minuscola solo quando è voce del menu",
         "tags": [
           "MENU"
@@ -57,6 +63,7 @@ module.exports = {
         "name": "App IO/Messaggi/Archiviati",
         "text": "Archiviati",
         "status": "FINAL",
+        "folder": null,
         "notes": "Etichetta per la tab dei messaggi archiviati",
         "tags": [
           "LABEL"
@@ -66,6 +73,7 @@ module.exports = {
         "name": "App IO/Messaggi/Dettagli certificato",
         "text": "Dettagli",
         "status": "FINAL",
+        "folder": null,
         "variants": {
           "en": {
             "text": "Details"
@@ -79,6 +87,7 @@ module.exports = {
         "name": "App IO/Messaggi/In scadenza",
         "text": "In scadenza",
         "status": "FINAL",
+        "folder": null,
         "notes": "Etichetta per la tab dei messaggi in scadenza",
         "tags": [
           "LABEL"
@@ -88,6 +97,7 @@ module.exports = {
         "name": "App IO/Messaggi/Messaggi",
         "text": "Messaggi",
         "status": "FINAL",
+        "folder": null,
         "notes": "Si tratta del titolo della sezione \"Messaggi\", come visualizzato in schermata e non come voce di menu. In quest'ultimo caso, si deve utilizzare la \"m\" minuscola. ",
         "tags": [
           "TITOLO"
@@ -97,6 +107,7 @@ module.exports = {
         "name": "App IO/Messaggi/Messaggio",
         "text": "Messaggio",
         "status": "FINAL",
+        "folder": null,
         "tags": [
           "LABEL"
         ]
@@ -105,6 +116,7 @@ module.exports = {
         "name": "App IO/Messaggi/Ricevuti",
         "text": "Ricevuti",
         "status": "FINAL",
+        "folder": null,
         "notes": "Etichetta per la tab dei messaggi ricevuti",
         "tags": [
           "LABEL"
@@ -114,6 +126,7 @@ module.exports = {
         "name": "App IO/Messaggi/Salva certificato",
         "text": "Salva",
         "status": "FINAL",
+        "folder": null,
         "variants": {
           "en": {
             "text": "Save"
@@ -127,6 +140,7 @@ module.exports = {
         "name": "App IO/Messaggi/Vedi avviso",
         "text": "Vedi Avviso",
         "status": "WIP",
+        "folder": null,
         "variants": {
           "en": {
             "text": "See Notice"
@@ -141,6 +155,7 @@ module.exports = {
         "name": "App IO/Naming/Carta Giovani Nazionale",
         "text": "Carta Giovani Nazionale",
         "status": "FINAL",
+        "folder": null,
         "tags": [
           "NAMING",
           "FUNZONALITA"
@@ -150,6 +165,7 @@ module.exports = {
         "name": "App IO/Naming/Naming completo",
         "text": "IO - L’app dei servizi pubblici",
         "status": "FINAL",
+        "folder": null,
         "tags": [
           "NAMING"
         ]
@@ -158,6 +174,7 @@ module.exports = {
         "name": "App IO/Naming/PagoPA",
         "text": "PagoPA",
         "status": "FINAL",
+        "folder": null,
         "tags": [
           "NAMING",
           "PRODOTTO"
@@ -167,6 +184,7 @@ module.exports = {
         "name": "App IO/Onboarding/Accesso CIE",
         "text": "Entra con CIE",
         "status": "FINAL",
+        "folder": null,
         "variants": {
           "en": {
             "text": "Enter with CIE"
@@ -180,6 +198,7 @@ module.exports = {
         "name": "App IO/Onboarding/Accesso SPID",
         "text": "Entra con SPID",
         "status": "FINAL",
+        "folder": null,
         "variants": {
           "en": {
             "text": "Enter with SPID"
@@ -193,6 +212,7 @@ module.exports = {
         "name": "App IO/Portafoglio/Aggiorna",
         "text": "Aggiorna",
         "status": "FINAL",
+        "folder": null,
         "notes": "CTA di aggiornamento delle card nel Portafoglio",
         "tags": [
           "CTA"
@@ -202,6 +222,7 @@ module.exports = {
         "name": "App IO/Portafoglio/Aggiungi",
         "text": "Aggiungi",
         "status": "FINAL",
+        "folder": null,
         "variants": {
           "en": {
             "text": "Add"
@@ -216,6 +237,7 @@ module.exports = {
         "name": "App IO/Portafoglio/Carica immagine",
         "text": "Carica immagine dalla galleria",
         "status": "FINAL",
+        "folder": null,
         "notes": "Quando l'utente preme su \"Paga un avviso\", può inquadrare il codice QR, inserire il codice manualmente o come in questo caso, caricare un'immagine dalla galleria",
         "tags": [
           "CTA"
@@ -225,6 +247,7 @@ module.exports = {
         "name": "App IO/Portafoglio/Inserisci codice avviso",
         "text": "Inserisci manualmente",
         "status": "FINAL",
+        "folder": null,
         "notes": "Quando l'utente preme su \"Paga un avviso\", può inquadrare il codice QR, caricare l'immagine dalla galleria o, come in questo caso, inserire il codice manualmente",
         "tags": [
           "CTA"
@@ -234,6 +257,7 @@ module.exports = {
         "name": "App IO/Portafoglio/Mostra operazioni",
         "text": "Mostra operazioni",
         "status": "FINAL",
+        "folder": null,
         "notes": "CTA per vedere i pagamenti effettuati tramite l'app IO",
         "tags": [
           "CTA"
@@ -243,6 +267,7 @@ module.exports = {
         "name": "App IO/Portafoglio/Paga",
         "text": "Paga {{TotaleDaPagare}}",
         "status": "FINAL",
+        "folder": null,
         "variables": {
           "TotaleDaPagare": {
             "example": "151,00 €"
@@ -267,6 +292,7 @@ module.exports = {
         "name": "App IO/Portafoglio/Paga un avviso",
         "text": "Paga un avviso",
         "status": "FINAL",
+        "folder": null,
         "variants": {
           "en": {
             "text": "Pay a notice"
@@ -281,6 +307,7 @@ module.exports = {
         "name": "App IO/Portafoglio/Vai al pagamento",
         "text": "Vai al pagamento",
         "status": "FINAL",
+        "folder": null,
         "notes": "Segue \"Vedi Avviso\"",
         "tags": [
           "CTA"
@@ -290,6 +317,7 @@ module.exports = {
         "name": "App IO/Profilo/Condividi dati",
         "text": "Condividi dati ",
         "status": "FINAL",
+        "folder": null,
         "notes": "CTA che un utente preme quando decidere di condividere i dati con IO",
         "tags": [
           "CTA"
@@ -299,6 +327,7 @@ module.exports = {
         "name": "App IO/Profilo/Condivisione dati",
         "text": "Non condividere dati ",
         "status": "FINAL",
+        "folder": null,
         "notes": "Se l'utente che ha scelto di condividere i dati con IO cambia idea e non vuole più farlo, preme su questa CTA",
         "tags": [
           "CTA"
@@ -308,6 +337,7 @@ module.exports = {
         "name": "App IO/Profilo/Copia dei dati",
         "text": "Richiedi copia dei tuoi dati ",
         "status": "WIP",
+        "folder": null,
         "tags": [
           "CTA"
         ]
@@ -316,6 +346,7 @@ module.exports = {
         "name": "App IO/Servizi/Accettazione termini",
         "text": "Premendo ‘Attiva il servizio’ dichiari di avere letto e compreso i Termini di Servizio e l’Informativa sul trattamento dei dati personali.",
         "status": "REVIEW",
+        "folder": null,
         "tags": [
           "DISCLAIMER",
           "LEGAL"
@@ -325,6 +356,7 @@ module.exports = {
         "name": "App IO/Servizi/Attiva il servizio",
         "text": "Attiva il servizio",
         "status": "REVIEW",
+        "folder": null,
         "notes": "Questa CTA va usata quando, premendo il pulsante, si attiva un servizio senza dover inserire ulteriori informazioni. Nel caso in cui vadano compilati dei campi, la CTA da usare è \"Iscriviti al servizio\"",
         "tags": [
           "CTA"
@@ -334,6 +366,7 @@ module.exports = {
         "name": "App IO/Servizi/Contattarti in app",
         "text": "Contattarti in app",
         "status": "FINAL",
+        "folder": null,
         "notes": "Toggle presente nella scheda servizio",
         "tags": [
           "TOGGLE"
@@ -343,6 +376,7 @@ module.exports = {
         "name": "App IO/Servizi/Contatti e informazioni",
         "text": "Contatti e informazioni",
         "status": "FINAL",
+        "folder": null,
         "notes": "Sezione finale della scheda servizio, in cui gli utenti trovano informazioni utili e contatti per l'assistenza.",
         "tags": [
           "LABEL",
@@ -353,12 +387,14 @@ module.exports = {
         "name": "App IO/Servizi/Dettaglio servizio",
         "text": "Dettagli del servizio",
         "status": "FINAL",
+        "folder": null,
         "notes": "Dicitura presente in alto al centro di ogni scheda servizio."
       },
       "app-io.servizi.disattiva-il-servizio": {
         "name": "App IO/Servizi/Disattiva il servizio",
         "text": "Disattiva il servizio",
         "status": "REVIEW",
+        "folder": null,
         "notes": "CTA da utilizzare quando un utente vuole disattivare un servizio, diversa da \"disiscriviti\" (da utilizzare nel caso in cui l'iscrizione al servizio preveda l'inserimento di dati o informazioni. Per i dettagli, vedi  il componente \"Attiva il servizio\")",
         "tags": [
           "CTA"
@@ -368,6 +404,7 @@ module.exports = {
         "name": "App IO/Servizi/Inviarti notifiche push",
         "text": "Inviarti notifiche push",
         "status": "FINAL",
+        "folder": null,
         "notes": "Toggle presente nella scheda servizio sotto a \"questo servizio può\"",
         "tags": [
           "TOGGLE"
@@ -377,6 +414,7 @@ module.exports = {
         "name": "App IO/Servizi/Questo servizio può",
         "text": "Questo servizio può",
         "status": "FINAL",
+        "folder": null,
         "notes": "Dicitura presente all'interno della scheda servizio, seguita dai toggle \"contattarti in app\" e \"inviarti notifiche push\"",
         "tags": [
           "LABEL",
@@ -387,6 +425,7 @@ module.exports = {
         "name": "App IO/Servizi/Richiedi assistenza",
         "text": "Richiedi assistenza",
         "status": "FINAL",
+        "folder": null,
         "notes": "CTa da utilizzare per reindirizzare gli utenti al canale di assistenza di un ente.",
         "tags": [
           "CTA"
@@ -396,6 +435,7 @@ module.exports = {
         "name": "App IO/Servizi/Termini del servizio",
         "text": "Termini e Condizioni del servizio ",
         "status": "FINAL",
+        "folder": null,
         "notes": "Dicitura da utilizzare quando i Termini e le condizioni sono relative ad un servizio. Diverso da \"Termini e Condizioni\", che invece riguarda i T&C generali di un prodotto e non di un servizio o funzionalità in esso contenuto.",
         "tags": [
           "LEGAL"
@@ -405,6 +445,7 @@ module.exports = {
         "name": "App IO/Servizi/Visita il sito",
         "text": "Visita il sito",
         "status": "FINAL",
+        "folder": null,
         "notes": "Da utilizzare per rimandare al sito di un ente.",
         "tags": [
           "CTA"
@@ -414,6 +455,7 @@ module.exports = {
         "name": "Email/Body - Authenticated/PaymentCompleted",
         "text": "Ciao {{NomeCognome}},\nil tuo pagamento è andato a buon fine. Ecco i dettagli dell’operazione.",
         "status": "FINAL",
+        "folder": null,
         "variables": {
           "NomeCognome": {
             "example": "Maria Rossi"
@@ -427,6 +469,7 @@ module.exports = {
         "name": "Email/Body - Authenticated/PaymentPending",
         "text": "La tua richiesta di pagamento è stata presa in carico. \nAttendi qualche minuto e controlla l’esito sul sito dell’Ente Creditore.\n\nDi seguito trovi tutti i dettagli dell’operazione.",
         "status": "FINAL",
+        "folder": null,
         "tags": [
           "CHECKOUT"
         ]
@@ -435,6 +478,7 @@ module.exports = {
         "name": "Email/Body - Guest/PaymentCompleted",
         "text": "Il tuo pagamento è andato a buon fine. Ecco i dettagli dell’operazione.",
         "status": "FINAL",
+        "folder": null,
         "tags": [
           "CHECKOUT"
         ]
@@ -443,6 +487,7 @@ module.exports = {
         "name": "Email/Body - Guest/PaymentPending",
         "text": "Ciao,\nla tua richiesta di pagamento è stata presa in carico.\nAttendi qualche minuto e controlla l’esito sul sito dell’Ente Creditore.\n\nDi seguito trovi tutti i dettagli dell’operazione.",
         "status": "NONE",
+        "folder": null,
         "tags": [
           "CHECKOUT"
         ]
@@ -451,6 +496,7 @@ module.exports = {
         "name": "Email/Body/PaymentFailed",
         "text": "Il tuo pagamento non è andato a buon fine.\nNon è stato addebitato nessun importo sul metodo di pagamento utilizzato.",
         "status": "FINAL",
+        "folder": null,
         "tags": [
           "CHECKOUT"
         ]
@@ -459,6 +505,7 @@ module.exports = {
         "name": "Email/Disclaimer/DoNotReply",
         "text": "Non rispondere a questa email. Questa casella di posta è utilizzata solo per l’invio della presente mail e, non essendo monitorata, non riceveresti risposta.",
         "status": "FINAL",
+        "folder": null,
         "notes": "Usato per le email noreply@",
         "tags": [
           "CHECKOUT"
@@ -468,6 +515,7 @@ module.exports = {
         "name": "Email/Disclaimer/ExtraPSPCosts",
         "text": "Il totale non include eventuali costi di invio bonifico, se applicati dal gestore della transazione (PSP). Per maggiori informazioni, rivolgiti alla tua banca.",
         "status": "FINAL",
+        "folder": null,
         "notes": "Mostrato quando si paga con conto corrente. Il PSP potrebbe aver fatto pagare il costo del bonifico (non possiamo saperlo).",
         "tags": [
           "CHECKOUT"
@@ -477,6 +525,7 @@ module.exports = {
         "name": "Email/Footer/Bye",
         "text": "A presto,\nil team di pagoPA",
         "status": "FINAL",
+        "folder": null,
         "notes": "Formula di congedo delle email inviate da pagoPA",
         "tags": [
           "CHECKOUT"
@@ -486,6 +535,7 @@ module.exports = {
         "name": "Email/Footer/NeedHelp?/Content",
         "text": "Contatta il servizio di assistenza e comunica il codice transazione: {{TransactionID}}.",
         "status": "FINAL",
+        "folder": null,
         "variables": {
           "TransactionID": {
             "example": "F57E2F8E-25FF-4183-AB7B-4A5EC1A96644"
@@ -499,12 +549,14 @@ module.exports = {
       "email.footer.needhelp.title": {
         "name": "Email/Footer/NeedHelp?/Title",
         "text": "Serve aiuto?",
-        "status": "FINAL"
+        "status": "FINAL",
+        "folder": null
       },
       "email.title.paymentcompleted": {
         "name": "Email/Title/PaymentCompleted",
         "text": "Hai inviato un pagamento di {{Importo}} tramite pagoPA",
         "status": "FINAL",
+        "folder": null,
         "variables": {
           "Importo": {
             "example": "150,00 €"
@@ -518,6 +570,7 @@ module.exports = {
         "name": "Email/Title/PaymentFailed",
         "text": "Ops! Il pagamento di {{Importo}} tramite pagoPA non è riuscito",
         "status": "FINAL",
+        "folder": null,
         "variables": {
           "Importo": {
             "example": "150,00 €"
@@ -531,6 +584,7 @@ module.exports = {
         "name": "Email/Title/PaymentPending",
         "text": "Il pagamento è stato preso in carico",
         "status": "FINAL",
+        "folder": null,
         "tags": [
           "CHECKOUT"
         ]
@@ -539,6 +593,7 @@ module.exports = {
         "name": "Generale/ Termini e Condizioni",
         "text": "Termini e Condizioni",
         "status": "FINAL",
+        "folder": null,
         "tags": [
           "LEGAL"
         ]
@@ -547,6 +602,7 @@ module.exports = {
         "name": "Generale/Accessibilità",
         "text": "Accessibilità",
         "status": "FINAL",
+        "folder": null,
         "tags": [
           "FOOTER"
         ]
@@ -555,6 +611,7 @@ module.exports = {
         "name": "Generale/Annulla",
         "text": "Annulla",
         "status": "FINAL",
+        "folder": null,
         "notes": "Questa CTA va usata quando si annulla un'operazione. La CTA è diversa da \"Indietro\".",
         "tags": [
           "CTA"
@@ -564,6 +621,7 @@ module.exports = {
         "name": "Generale/Assistenza",
         "text": "Assistenza",
         "status": "FINAL",
+        "folder": null,
         "notes": "Questo termine indica il canale di assistenza di qualsiasi prodotto di PagoPA, sia esso rivolto ai cittadini o agli incaricati di un ente. Non va chiamato in nessun altro modo, incluso \"Supporto\".",
         "tags": [
           "NAMING"
@@ -573,6 +631,7 @@ module.exports = {
         "name": "Generale/Blocca",
         "text": "Blocca",
         "status": "FINAL",
+        "folder": null,
         "notes": "Questa CTA va utilizzata per \"bloccare\" una chiave API.",
         "tags": [
           "CTA"
@@ -581,12 +640,14 @@ module.exports = {
       "generale.campi-obbligatori": {
         "name": "Generale/Campi obbligatori",
         "text": "*Campi obbligatori",
-        "status": "FINAL"
+        "status": "FINAL",
+        "folder": null
       },
       "generale.chiudi": {
         "name": "Generale/Chiudi",
         "text": "Chiudi",
         "status": "FINAL",
+        "folder": null,
         "notes": "Questa CTA va usata quando l'azione porta alla chiusura di una modale. Un'alternativa più colloquiale è \"Ho capito!\"",
         "tags": [
           "CTA"
@@ -595,22 +656,26 @@ module.exports = {
       "generale.citt-di-nascita": {
         "name": "Generale/Città di nascita",
         "text": "Città di nascita",
-        "status": "FINAL"
+        "status": "FINAL",
+        "folder": null
       },
       "generale.codice-fiscale": {
         "name": "Generale/Codice Fiscale",
         "text": "Codice Fiscale",
-        "status": "FINAL"
+        "status": "FINAL",
+        "folder": null
       },
       "generale.cognome": {
         "name": "Generale/Cognome",
         "text": "Cognome",
-        "status": "FINAL"
+        "status": "FINAL",
+        "folder": null
       },
       "generale.conferma": {
         "name": "Generale/Conferma",
         "text": "Conferma",
         "status": "FINAL",
+        "folder": null,
         "notes": "Questa CTA conferma una modifica o un'azione. ",
         "tags": [
           "CTA"
@@ -620,6 +685,7 @@ module.exports = {
         "name": "Generale/Continua",
         "text": "Continua",
         "status": "FINAL",
+        "folder": null,
         "variants": {
           "en": {
             "text": "Continue"
@@ -632,12 +698,14 @@ module.exports = {
       "generale.data-di-nascita": {
         "name": "Generale/Data di nascita",
         "text": "Data di nascita",
-        "status": "FINAL"
+        "status": "FINAL",
+        "folder": null
       },
       "generale.dicitura-footer": {
         "name": "Generale/Dicitura footer",
         "text": "PagoPA S.p.A. - Società per azioni con socio unico - Capitale sociale di euro 1,000,000 interamente versato - Sede legale in Roma, Piazza Colonna 370, CAP 00187 - N. di iscrizione a Registro Imprese di Roma, CF e P.IVA 15376371009",
         "status": "FINAL",
+        "folder": null,
         "notes": "Dicitura da utilizzare nei footer di tutti i siti di PagoPA S.p.A.",
         "tags": [
           "FOOTER"
@@ -647,6 +715,7 @@ module.exports = {
         "name": "Generale/Diritto alla protezione dei dati personali",
         "text": "Diritto alla protezione dei dati personali",
         "status": "FINAL",
+        "folder": null,
         "tags": [
           "FOOTER"
         ]
@@ -655,6 +724,7 @@ module.exports = {
         "name": "Generale/Elimina",
         "text": "Elimina",
         "status": "FINAL",
+        "folder": null,
         "tags": [
           "CTA"
         ]
@@ -663,6 +733,7 @@ module.exports = {
         "name": "Generale/Esci",
         "text": "Esci",
         "status": "FINAL",
+        "folder": null,
         "notes": "CTA per fare logout da qualsiasi prodotto PagoPA, sia esso rivolto ai cittadini o agli incaricati di un ente.",
         "tags": [
           "CTA"
@@ -672,6 +743,7 @@ module.exports = {
         "name": "Generale/Esporta tutti",
         "text": "Esporta tutti",
         "status": "REVIEW",
+        "folder": null,
         "notes": "CTA per pulsanti che generano un export (di dati, di documenti, etc.)",
         "tags": [
           "CTA"
@@ -681,6 +753,7 @@ module.exports = {
         "name": "Generale/Filtra",
         "text": "Filtra",
         "status": "FINAL",
+        "folder": null,
         "notes": "CTA per applicare filtri ",
         "tags": [
           "CTA"
@@ -689,12 +762,14 @@ module.exports = {
       "generale.filtri": {
         "name": "Generale/Filtri",
         "text": "Filtri",
-        "status": "FINAL"
+        "status": "FINAL",
+        "folder": null
       },
       "generale.ho-capito-1": {
         "name": "Generale/Ho capito",
         "text": "Ho capito!",
         "status": "FINAL",
+        "folder": null,
         "notes": "Questa CTA va usata quando l'azione porta alla chiusura di una modale. Un'alternativa meno colloquiale è \"Chiudi\"",
         "tags": [
           "CTA"
@@ -704,6 +779,7 @@ module.exports = {
         "name": "Generale/Indietro",
         "text": "Indietro",
         "status": "FINAL",
+        "folder": null,
         "notes": "Questa CTA va usata quando l'azione porta al passaggio precedente, senza annullare alcuna operazione. La CTA è diversa da \"Indietro\".",
         "tags": [
           "CTA"
@@ -713,12 +789,14 @@ module.exports = {
         "name": "Generale/Indirizzo email",
         "text": "Indirizzo email",
         "status": "FINAL",
+        "folder": null,
         "notes": "Da usare per le email tradizionali, NON per le PEC"
       },
       "generale.italiano": {
         "name": "Generale/Italiano",
         "text": "Italiano",
         "status": "FINAL",
+        "folder": null,
         "tags": [
           "LINGUA",
           "FOOTER"
@@ -727,12 +805,14 @@ module.exports = {
       "generale.meseanno": {
         "name": "Generale/MeseAnno",
         "text": "Luglio 2022",
-        "status": "FINAL"
+        "status": "FINAL",
+        "folder": null
       },
       "generale.modifica": {
         "name": "Generale/Modifica",
         "text": "Copia",
         "status": "FINAL",
+        "folder": null,
         "notes": "Questa CTA va utilizzata quando l'azione modifica un campo.",
         "tags": [
           "CTA"
@@ -741,12 +821,14 @@ module.exports = {
       "generale.nome": {
         "name": "Generale/Nome",
         "text": "Nome",
-        "status": "FINAL"
+        "status": "FINAL",
+        "folder": null
       },
       "generale.pagopa-azienda": {
         "name": "Generale/PagoPA azienda",
         "text": "PagoPA S.p.A.",
         "status": "FINAL",
+        "folder": null,
         "notes": "Dicitura di PagoPA azienda",
         "tags": [
           "NAMING",
@@ -756,17 +838,20 @@ module.exports = {
       "generale.provincia-di-nascita": {
         "name": "Generale/Provincia di nascita",
         "text": "Provincia di nascita",
-        "status": "FINAL"
+        "status": "FINAL",
+        "folder": null
       },
       "generale.riprova": {
         "name": "Generale/Riprova",
         "text": "Riprova",
-        "status": "FINAL"
+        "status": "FINAL",
+        "folder": null
       },
       "generale.ruota": {
         "name": "Generale/Ruota",
         "text": "Ruota",
         "status": "FINAL",
+        "folder": null,
         "notes": "Questa CTA va usata per l'azione di \"ruotare\" una API.",
         "tags": [
           "CTA"
@@ -775,12 +860,14 @@ module.exports = {
       "generale.sesso": {
         "name": "Generale/Sesso",
         "text": "Sesso",
-        "status": "FINAL"
+        "status": "FINAL",
+        "folder": null
       },
       "generale.va-bene": {
         "name": "Generale/Va bene",
         "text": "Ok, va bene",
         "status": "FINAL",
+        "folder": null,
         "notes": "Questa CTA deve essere utilizzata solo nel caso di consenso, e non per chiudere eventuali modali o bottomsheet.",
         "tags": [
           "CTA"
@@ -790,6 +877,7 @@ module.exports = {
         "name": "Generale/Visualizza",
         "text": "Visualizza",
         "status": "FINAL",
+        "folder": null,
         "notes": "CTA da usare per visualizzare un item.",
         "tags": [
           "CTA"
@@ -799,6 +887,7 @@ module.exports = {
         "name": "Mcc/0742",
         "text": "Servizi veterinari",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Veterinary services"
@@ -809,6 +898,7 @@ module.exports = {
         "name": "Mcc/0743",
         "text": "Produttori di vino",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Wine producers"
@@ -819,6 +909,7 @@ module.exports = {
         "name": "Mcc/0744",
         "text": "Produttori di champagne",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Champagne producers"
@@ -829,6 +920,7 @@ module.exports = {
         "name": "Mcc/0763",
         "text": "Cooperative agricole",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Agricultural Cooperatives"
@@ -839,6 +931,7 @@ module.exports = {
         "name": "Mcc/0780",
         "text": "Paesaggistica e orticoltura",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Landscaping and horticultural services"
@@ -849,6 +942,7 @@ module.exports = {
         "name": "Mcc/1353",
         "text": "Dia (Spagna) - Ipermercati alimentari",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Dia (Spain)-Hypermarkets of Food"
@@ -859,6 +953,7 @@ module.exports = {
         "name": "Mcc/1406",
         "text": "H&M Moda (Spagna) - Negozi al dettaglio",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "H&M Moda (Spain)-Retail Merchants"
@@ -869,6 +964,7 @@ module.exports = {
         "name": "Mcc/1520",
         "text": "General contractor - residenziali e commerciali",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "General contractors — residential and commercial"
@@ -879,6 +975,7 @@ module.exports = {
         "name": "Mcc/1711",
         "text": "Impianti idraulici, di riscaldamento e condizionamento",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Heating, plumbing and air-conditioning contractors"
@@ -889,6 +986,7 @@ module.exports = {
         "name": "Mcc/1731",
         "text": "Impianti elettrici",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Electrical contractors"
@@ -899,6 +997,7 @@ module.exports = {
         "name": "Mcc/1740",
         "text": "Muratura, posa di piastrelle, intonacatura e coibentazione",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Masonry, stonework, tile setting, plastering and insulation contractors"
@@ -909,6 +1008,7 @@ module.exports = {
         "name": "Mcc/1750",
         "text": "Carpenteria",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Carpentry contractors"
@@ -919,6 +1019,7 @@ module.exports = {
         "name": "Mcc/1761",
         "text": "Coperture per tetti, rivestimenti e lamiere",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Roofing, siding and sheet metal work contractors"
@@ -929,6 +1030,7 @@ module.exports = {
         "name": "Mcc/1771",
         "text": "Lavori in calcestruzzo",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Concrete work contractors"
@@ -939,6 +1041,7 @@ module.exports = {
         "name": "Mcc/1799",
         "text": "Imprese specializzate - non classificate altrove",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Special trade contractors — not elsewhere classified"
@@ -949,6 +1052,7 @@ module.exports = {
         "name": "Mcc/2741",
         "text": "Editoria e stampa",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Miscellaneous publishing and printing services"
@@ -959,6 +1063,7 @@ module.exports = {
         "name": "Mcc/2791",
         "text": "Composizione (preparazione stampa)",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Typesetting, platemaking and related services"
@@ -969,6 +1074,7 @@ module.exports = {
         "name": "Mcc/2842",
         "text": "Detergenti, cere, lucidanti, disinfettanti",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Speciality cleaning, polishing and sanitation preparations"
@@ -979,6 +1085,7 @@ module.exports = {
         "name": "Mcc/4011",
         "text": "Ferrovie",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Railroads"
@@ -989,6 +1096,7 @@ module.exports = {
         "name": "Mcc/4111",
         "text": "Trasporti locali e suburbani",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Local and suburban commuter passenger transportation, including ferries"
@@ -999,6 +1107,7 @@ module.exports = {
         "name": "Mcc/4112",
         "text": "Trasporto ferroviario passeggeri",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Passenger railways"
@@ -1009,6 +1118,7 @@ module.exports = {
         "name": "Mcc/4119",
         "text": "Ambulanze",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Ambulance Services"
@@ -1019,6 +1129,7 @@ module.exports = {
         "name": "Mcc/4121",
         "text": "Taxi e limousine",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Taxi-cabs and limousines"
@@ -1029,6 +1140,7 @@ module.exports = {
         "name": "Mcc/4131",
         "text": "Autobus",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Bus Lines"
@@ -1039,6 +1151,7 @@ module.exports = {
         "name": "Mcc/4214",
         "text": "Trasporti locali merci con magazzinaggio",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Motor freight carriers and trucking — local and long distance, moving and storage  companies and local delivery"
@@ -1049,6 +1162,7 @@ module.exports = {
         "name": "Mcc/4215",
         "text": "Corrieri - Spedizionieri merci, per via aerea e terrestre",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Courier services — air and ground and freight forwarders"
@@ -1059,6 +1173,7 @@ module.exports = {
         "name": "Mcc/4225",
         "text": "Magazzini e depositi pubblici",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Public warehousing and storage — farm products, refrigerated goods and  household goods"
@@ -1069,6 +1184,7 @@ module.exports = {
         "name": "Mcc/4411",
         "text": "Piroscafi e navi da crociera",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Steamships and cruise lines"
@@ -1079,6 +1195,7 @@ module.exports = {
         "name": "Mcc/4457",
         "text": "Noleggio e leasing di barche",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Boat Rentals and Leasing"
@@ -1089,6 +1206,7 @@ module.exports = {
         "name": "Mcc/4468",
         "text": "Porti turistici, servizi e forniture nautiche",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Marinas, marine service and supplies"
@@ -1099,6 +1217,7 @@ module.exports = {
         "name": "Mcc/4511",
         "text": "Compagnie e vettori aerei (non classificati altrove)",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Airlines and Air Carriers (Not Elsewhere Classified)"
@@ -1109,6 +1228,7 @@ module.exports = {
         "name": "Mcc/4582",
         "text": "Aeroporti, campi volo e terminal aeroportuali",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Airports, Flying Fields, and Airport Terminals"
@@ -1119,6 +1239,7 @@ module.exports = {
         "name": "Mcc/4722",
         "text": "Agenzie viaggi e tour operator",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Travel agencies and tour operators"
@@ -1129,6 +1250,7 @@ module.exports = {
         "name": "Mcc/4723",
         "text": "Tour operator - Solo Germania",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Package Tour Operators – Germany Only"
@@ -1139,6 +1261,7 @@ module.exports = {
         "name": "Mcc/4784",
         "text": "Gestione percorsi a pedaggio",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Tolls and bridge fees"
@@ -1149,6 +1272,7 @@ module.exports = {
         "name": "Mcc/4789",
         "text": "Servizi di trasporto - non classificati altrove",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Transportation services — not elsewhere classified"
@@ -1159,6 +1283,7 @@ module.exports = {
         "name": "Mcc/4812",
         "text": "Vendita di attrezzature per telecomunicazioni e telefonia",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Telecommunication equipment and telephone sales"
@@ -1169,6 +1294,7 @@ module.exports = {
         "name": "Mcc/4813",
         "text": "Servizi di telecomunicazione (Schede telefoniche)",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Key-entry Telecom Merchant providing single local and long-distance phone calls using a central access number in a non–face-to-face environment using key entry"
@@ -1179,6 +1305,7 @@ module.exports = {
         "name": "Mcc/4814",
         "text": "Servizi di telecomunicazione (Carte di credito)",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Telecommunication services, including local and long distance calls, credit card calls, calls through use of magnetic stripe reading telephones and faxes"
@@ -1189,6 +1316,7 @@ module.exports = {
         "name": "Mcc/4815",
         "text": "Riepilogo mensile delle spese telefoniche",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Monthly summary telephone charges"
@@ -1199,6 +1327,7 @@ module.exports = {
         "name": "Mcc/4816",
         "text": "Servizi internet e informatici",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Computer network/information services"
@@ -1209,6 +1338,7 @@ module.exports = {
         "name": "Mcc/4821",
         "text": "Servizi telegrafici",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Telegraph services"
@@ -1219,6 +1349,7 @@ module.exports = {
         "name": "Mcc/4829",
         "text": "Bonifici e ordini di pagamento",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Wire transfers and money orders"
@@ -1229,6 +1360,7 @@ module.exports = {
         "name": "Mcc/4899",
         "text": "TV via cavo e altri servizi televisivi a pagamento",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Cable and other pay television services"
@@ -1239,6 +1371,7 @@ module.exports = {
         "name": "Mcc/4900",
         "text": "Utenze: elettricità, gas, acqua e servizi igienici",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Utilities — electric, gas, water and sanitary"
@@ -1249,6 +1382,7 @@ module.exports = {
         "name": "Mcc/5013",
         "text": "Componenti e accessori per autoveicoli",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Motor vehicle supplies and new parts"
@@ -1259,6 +1393,7 @@ module.exports = {
         "name": "Mcc/5021",
         "text": "Arredamento per uffici e negozi",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Office and commercial furniture"
@@ -1269,6 +1404,7 @@ module.exports = {
         "name": "Mcc/5039",
         "text": "Materiali da costruzione - non classificati altrove",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Construction materials — not elsewhere classified"
@@ -1279,6 +1415,7 @@ module.exports = {
         "name": "Mcc/5044",
         "text": "Materiale da ufficio, fotografico, fotocopie e microfilm",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Office, photographic, photocopy and microfilm equipment"
@@ -1289,6 +1426,7 @@ module.exports = {
         "name": "Mcc/5045",
         "text": "Computer e periferiche - non classificati altrove",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Computers, computer peripheral equipment — not elsewhere classified"
@@ -1299,6 +1437,7 @@ module.exports = {
         "name": "Mcc/5046",
         "text": "Attrezzatura commerciale - non classificata altrove",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Commercial equipment — not elsewhere classified"
@@ -1309,6 +1448,7 @@ module.exports = {
         "name": "Mcc/5047",
         "text": "Attrezzature e forniture mediche",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Dental/laboratory/medical/ophthalmic hospital equipment and supplies"
@@ -1319,6 +1459,7 @@ module.exports = {
         "name": "Mcc/5051",
         "text": "Materiali metallici semilavorati",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Metal service centres and offices"
@@ -1329,6 +1470,7 @@ module.exports = {
         "name": "Mcc/5065",
         "text": "Componenti e attrezzature elettriche",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Electrical parts and equipment"
@@ -1339,6 +1481,7 @@ module.exports = {
         "name": "Mcc/5072",
         "text": "Attrezzature e forniture hardware",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Hardware equipment and supplies"
@@ -1349,6 +1492,7 @@ module.exports = {
         "name": "Mcc/5074",
         "text": "Attrezzature per riscaldamento e idraulica",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Plumbing and heating equipment and supplies"
@@ -1359,6 +1503,7 @@ module.exports = {
         "name": "Mcc/5085",
         "text": "Forniture industriali - non classificate altrove",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Industrial supplies — not elsewhere classified"
@@ -1369,6 +1514,7 @@ module.exports = {
         "name": "Mcc/5094",
         "text": "Pietre e metalli preziosi, orologi e gioielli",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Precious stones and metals, watches and jewellery"
@@ -1379,6 +1525,7 @@ module.exports = {
         "name": "Mcc/5099",
         "text": "Beni durevoli - non classificati altrove",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Durable goods — not elsewhere classified"
@@ -1389,6 +1536,7 @@ module.exports = {
         "name": "Mcc/5111",
         "text": "Cancelleria, carta e forniture per uffici",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Stationery, office supplies and printing and writing paper"
@@ -1399,6 +1547,7 @@ module.exports = {
         "name": "Mcc/5122",
         "text": "Articoli farmaceutici, cosmetici e coloniali",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Drugs, drug proprietors"
@@ -1409,6 +1558,7 @@ module.exports = {
         "name": "Mcc/5131",
         "text": "Stoffe, tessuti, accessori da cucito",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Piece goods, notions and other dry goods"
@@ -1419,6 +1569,7 @@ module.exports = {
         "name": "Mcc/5137",
         "text": "Uniformi da uomo, donna e bambini e abbigliamento da lavoro",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Men’s, women’s and children’s uniforms and commercial clothing"
@@ -1429,6 +1580,7 @@ module.exports = {
         "name": "Mcc/5139",
         "text": "Calzature da lavoro",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Commercial footwear"
@@ -1439,6 +1591,7 @@ module.exports = {
         "name": "Mcc/5169",
         "text": "Prodotti chimici e affini - non classificati altrove",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Chemicals and allied products — not elsewhere classified"
@@ -1449,6 +1602,7 @@ module.exports = {
         "name": "Mcc/5172",
         "text": "Petrolio e prodotti petroliferi",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Petroleum and petroleum products"
@@ -1459,6 +1613,7 @@ module.exports = {
         "name": "Mcc/5192",
         "text": "Libri, riviste e quotidiani",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Books, Periodicals and Newspapers"
@@ -1469,6 +1624,7 @@ module.exports = {
         "name": "Mcc/5193",
         "text": "Forniture per fioristi e vivaisti",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Florists’ supplies, nursery stock and flowers"
@@ -1479,6 +1635,7 @@ module.exports = {
         "name": "Mcc/5198",
         "text": "Colori e vernici",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Paints, varnishes and supplies"
@@ -1489,6 +1646,7 @@ module.exports = {
         "name": "Mcc/5199",
         "text": "Beni non durevoli - non classificati altrove",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Non-durable goods — not elsewhere classified"
@@ -1499,6 +1657,7 @@ module.exports = {
         "name": "Mcc/5200",
         "text": "Ferramenta, materiale costruzioni, giardinaggio",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Home supply warehouse outlets"
@@ -1509,6 +1668,7 @@ module.exports = {
         "name": "Mcc/5211",
         "text": "Legname e altri materiali da costruzione",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Lumber and building materials outlets"
@@ -1519,6 +1679,7 @@ module.exports = {
         "name": "Mcc/5231",
         "text": "Vernici, vetri e tappezzerie in carta",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Glass, paint and wallpaper shops"
@@ -1529,6 +1690,7 @@ module.exports = {
         "name": "Mcc/5251",
         "text": "Ferramenta",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Hardware shops"
@@ -1539,6 +1701,7 @@ module.exports = {
         "name": "Mcc/5261",
         "text": "Articoli per giardinaggio e serra",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Lawn and garden supply outlets, including nurseries"
@@ -1549,6 +1712,7 @@ module.exports = {
         "name": "Mcc/5271",
         "text": "Roulotte e case mobili",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Mobile home dealers"
@@ -1559,6 +1723,7 @@ module.exports = {
         "name": "Mcc/5299",
         "text": "Vendita all'ingrosso di carburante",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Warehouse Club Gas"
@@ -1569,6 +1734,7 @@ module.exports = {
         "name": "Mcc/5300",
         "text": "Vendita all'ingrosso",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Wholesale clubs"
@@ -1579,6 +1745,7 @@ module.exports = {
         "name": "Mcc/5309",
         "text": "Duty-free",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Duty-free shops"
@@ -1589,6 +1756,7 @@ module.exports = {
         "name": "Mcc/5310",
         "text": "Discount",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Discount shops"
@@ -1599,6 +1767,7 @@ module.exports = {
         "name": "Mcc/5311",
         "text": "Grandi magazzini",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Department stores"
@@ -1609,6 +1778,7 @@ module.exports = {
         "name": "Mcc/5331",
         "text": "Supermercati",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Variety stores"
@@ -1619,6 +1789,7 @@ module.exports = {
         "name": "Mcc/5333",
         "text": "Ipermercati alimentari",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "HYPERMARKETS OF FOOD"
@@ -1629,6 +1800,7 @@ module.exports = {
         "name": "Mcc/5399",
         "text": "Articoli vari - non classificati altrove",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Miscellaneous general merchandise"
@@ -1639,6 +1811,7 @@ module.exports = {
         "name": "Mcc/5411",
         "text": "Drogherie e coloniali",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Groceries and supermarkets"
@@ -1649,6 +1822,7 @@ module.exports = {
         "name": "Mcc/5422",
         "text": "Alimenti surgelati e congelati",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Freezer and locker meat provisioners"
@@ -1659,6 +1833,7 @@ module.exports = {
         "name": "Mcc/5441",
         "text": "Caramelle, frutta secca e dolciumi",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Candy, nut and confectionery shops"
@@ -1669,6 +1844,7 @@ module.exports = {
         "name": "Mcc/5451",
         "text": "Latterie, prodotti caseari",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Dairies"
@@ -1679,6 +1855,7 @@ module.exports = {
         "name": "Mcc/5462",
         "text": "Fornai",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Bakeries"
@@ -1689,6 +1866,7 @@ module.exports = {
         "name": "Mcc/5499",
         "text": "Prodotti alimentari vari",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Miscellaneous food shops — convenience and speciality retail outlets"
@@ -1699,6 +1877,7 @@ module.exports = {
         "name": "Mcc/5511",
         "text": "Rivenditori di auto e camion, nuovi e usati",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Car and truck dealers (new and used) sales, services, repairs, parts and leasing"
@@ -1709,6 +1888,7 @@ module.exports = {
         "name": "Mcc/5521",
         "text": "Rivenditori di auto e camion, solo usati",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Car and truck dealers (used only) sales, service, repairs, parts and leasing"
@@ -1719,6 +1899,7 @@ module.exports = {
         "name": "Mcc/5531",
         "text": "Rivenditori di accessori per auto",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Auto Store"
@@ -1729,6 +1910,7 @@ module.exports = {
         "name": "Mcc/5532",
         "text": "Rivenditori di pneumatici per autoveicoli",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Automotive Tire Stores"
@@ -1739,6 +1921,7 @@ module.exports = {
         "name": "Mcc/5533",
         "text": "Rivenditori di ricambi e accessori per autoveicoli",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Automotive Parts and Accessories Stores"
@@ -1749,6 +1932,7 @@ module.exports = {
         "name": "Mcc/5541",
         "text": "Stazioni di servizio",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Service stations (with or without ancillary services)"
@@ -1759,6 +1943,7 @@ module.exports = {
         "name": "Mcc/5542",
         "text": "Distributori automatici di carburante",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Automated Fuel Dispensers"
@@ -1769,6 +1954,7 @@ module.exports = {
         "name": "Mcc/5551",
         "text": "Rivenditori di barche",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Boat Dealers"
@@ -1779,6 +1965,7 @@ module.exports = {
         "name": "Mcc/5552",
         "text": "Ricarica di veicoli elettrici",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Electric Vehicle Charging"
@@ -1789,6 +1976,7 @@ module.exports = {
         "name": "Mcc/5561",
         "text": "Rivenditori di roulotte e rimorchi",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Camper, recreational and utility trailer dealers"
@@ -1799,6 +1987,7 @@ module.exports = {
         "name": "Mcc/5571",
         "text": "Rivenditori di motocicli",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Motorcycle shops and dealers"
@@ -1809,6 +1998,7 @@ module.exports = {
         "name": "Mcc/5592",
         "text": "Rivenditori di camper",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Motor home dealers"
@@ -1819,6 +2009,7 @@ module.exports = {
         "name": "Mcc/5598",
         "text": "Rivenditori di motoslitte",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Snowmobile dealers"
@@ -1829,6 +2020,7 @@ module.exports = {
         "name": "Mcc/5599",
         "text": "Rivenditori veicoli vari, aerei - Non classificati altrove",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Miscellaneous automotive, aircraft and farm equipment dealers — not elsewhere  classified"
@@ -1839,6 +2031,7 @@ module.exports = {
         "name": "Mcc/5611",
         "text": "Abbigliamento e accessori per uomini e ragazzi",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Men’s and boys’ clothing and accessory shops"
@@ -1849,6 +2042,7 @@ module.exports = {
         "name": "Mcc/5621",
         "text": "Abbigliamento per donna",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Women’s ready-to-wear shops"
@@ -1859,6 +2053,7 @@ module.exports = {
         "name": "Mcc/5631",
         "text": "Accessori per abbigliamento e indumenti intimi femminili",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Women’s accessory and speciality shops"
@@ -1869,6 +2064,7 @@ module.exports = {
         "name": "Mcc/5641",
         "text": "Abbigliamento per bambini e neonati",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Children’s and infants’ wear shops"
@@ -1879,6 +2075,7 @@ module.exports = {
         "name": "Mcc/5651",
         "text": "Abbigliamento in genere",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Family clothing shops"
@@ -1889,6 +2086,7 @@ module.exports = {
         "name": "Mcc/5655",
         "text": "Abbigliamento sportivo e per l'equitazione",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Sports and riding apparel shops"
@@ -1899,6 +2097,7 @@ module.exports = {
         "name": "Mcc/5661",
         "text": "Scarpe",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Shoe shops"
@@ -1909,6 +2108,7 @@ module.exports = {
         "name": "Mcc/5681",
         "text": "Pelliccerie e negozi di pellicce",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Furriers and fur shops"
@@ -1919,6 +2119,7 @@ module.exports = {
         "name": "Mcc/5691",
         "text": "Abbigliamento da uomo e donna",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Men’s and women’s clothing shops"
@@ -1929,6 +2130,7 @@ module.exports = {
         "name": "Mcc/5697",
         "text": "Sartorie",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Tailors, seamstresses, mending and alterations"
@@ -1939,6 +2141,7 @@ module.exports = {
         "name": "Mcc/5698",
         "text": "Parrucche e parrucchini",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Wig and toupee shops"
@@ -1949,6 +2152,7 @@ module.exports = {
         "name": "Mcc/5699",
         "text": "Abbigliamento e accessori vari",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Miscellaneous apparel and accessory shops"
@@ -1959,6 +2163,7 @@ module.exports = {
         "name": "Mcc/5712",
         "text": "Mobili, arredi e casalinghi",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Furniture, home furnishings and equipment shops and manufacturers, except  appliances"
@@ -1969,6 +2174,7 @@ module.exports = {
         "name": "Mcc/5713",
         "text": "Rivestimenti per pavimenti",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Floor covering services"
@@ -1979,6 +2185,7 @@ module.exports = {
         "name": "Mcc/5714",
         "text": "Tappezzerie e tendaggi",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Drapery, window covering and upholstery shops"
@@ -1989,6 +2196,7 @@ module.exports = {
         "name": "Mcc/5715",
         "text": "Rivenditori all'ingrosso di bevande alcoliche",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Alcoholic beverage wholesalers"
@@ -1999,6 +2207,7 @@ module.exports = {
         "name": "Mcc/5718",
         "text": "Caminetti, parafuochi e altri accessori",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Fireplaces, fireplace screens and accessories shops"
@@ -2009,6 +2218,7 @@ module.exports = {
         "name": "Mcc/5719",
         "text": "Arredamento per la casa",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Miscellaneous home furnishing speciality shops"
@@ -2019,6 +2229,7 @@ module.exports = {
         "name": "Mcc/5722",
         "text": "Elettrodomestici",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Household appliance shops"
@@ -2029,6 +2240,7 @@ module.exports = {
         "name": "Mcc/5732",
         "text": "Radio, televisione, hi-fi",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Electronics shops"
@@ -2039,6 +2251,7 @@ module.exports = {
         "name": "Mcc/5733",
         "text": "Musica e strumenti musicali",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Music shops — musical instruments, pianos and sheet music"
@@ -2049,6 +2262,7 @@ module.exports = {
         "name": "Mcc/5734",
         "text": "Negozi di software per computer",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Computer software outlets"
@@ -2059,6 +2273,7 @@ module.exports = {
         "name": "Mcc/5735",
         "text": "Negozi di dischi",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Record shops"
@@ -2069,6 +2284,7 @@ module.exports = {
         "name": "Mcc/5811",
         "text": "Catering",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Caterers"
@@ -2079,6 +2295,7 @@ module.exports = {
         "name": "Mcc/5812",
         "text": "Ristoranti",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Eating places and restaurants"
@@ -2089,6 +2306,7 @@ module.exports = {
         "name": "Mcc/5813",
         "text": "Bar e locali in cui si consumano bevande alcoliche",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Drinking places (alcoholic beverages) — bars, taverns, night-clubs, cocktail  lounges and discothèques"
@@ -2099,6 +2317,7 @@ module.exports = {
         "name": "Mcc/5814",
         "text": "Fast food",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Fast food restaurants"
@@ -2109,6 +2328,7 @@ module.exports = {
         "name": "Mcc/5815",
         "text": "Beni digitali - Libri, film, musica",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Digital Goods Media – Books, Movies, Music"
@@ -2119,6 +2339,7 @@ module.exports = {
         "name": "Mcc/5816",
         "text": "Beni digitali - Giochi",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Digital Goods – Games"
@@ -2129,6 +2350,7 @@ module.exports = {
         "name": "Mcc/5817",
         "text": "Beni digitali - Applicazioni (giochi esclusi)",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Digital Goods – Applications (Excludes Games)"
@@ -2139,6 +2361,7 @@ module.exports = {
         "name": "Mcc/5818",
         "text": "Beni digitali - Grandi rivenditori di beni digitali",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Digital Goods – Large Digital Goods Merchant"
@@ -2149,6 +2372,7 @@ module.exports = {
         "name": "Mcc/5912",
         "text": "Farmacie, erboristerie, profumerie",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Drug stores and pharmacies"
@@ -2159,6 +2383,7 @@ module.exports = {
         "name": "Mcc/5921",
         "text": "Bottiglierie, vini, superalcolici",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Package shops — beer, wine and liquor"
@@ -2169,6 +2394,7 @@ module.exports = {
         "name": "Mcc/5931",
         "text": "Articoli usati e di seconda mano",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Used merchandise and second-hand shops"
@@ -2179,6 +2405,7 @@ module.exports = {
         "name": "Mcc/5932",
         "text": "Antiquariato - Vendita, riparazione e restauro",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Antique Shops – Sales, Repairs, and Restoration Services"
@@ -2189,6 +2416,7 @@ module.exports = {
         "name": "Mcc/5933",
         "text": "Banchi dei pegni",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Pawn shops"
@@ -2199,6 +2427,7 @@ module.exports = {
         "name": "Mcc/5935",
         "text": "Centri di demolizione e recupero",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Wrecking and salvage yards"
@@ -2209,6 +2438,7 @@ module.exports = {
         "name": "Mcc/5937",
         "text": "Riproduzioni di oggetti d'antiquariato",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Antique Reproductions"
@@ -2219,6 +2449,7 @@ module.exports = {
         "name": "Mcc/5940",
         "text": "Negozi di biciclette - Vendita e altri servizi",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Bicycle Shops – Sales and Service"
@@ -2229,6 +2460,7 @@ module.exports = {
         "name": "Mcc/5941",
         "text": "Articoli sportivi",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Sporting goods shops"
@@ -2239,6 +2471,7 @@ module.exports = {
         "name": "Mcc/5942",
         "text": "Librerie",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Book Stores"
@@ -2249,6 +2482,7 @@ module.exports = {
         "name": "Mcc/5943",
         "text": "Cartolerie",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Stationery, office and school supply shops"
@@ -2259,6 +2493,7 @@ module.exports = {
         "name": "Mcc/5944",
         "text": "Gioielli, orologi e argenteria",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Jewellery, watch, clock and silverware shops"
@@ -2269,6 +2504,7 @@ module.exports = {
         "name": "Mcc/5945",
         "text": "Hobbistica, giocattoli e giochi",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Hobby, toy and game shops"
@@ -2279,6 +2515,7 @@ module.exports = {
         "name": "Mcc/5946",
         "text": "Articoli fotografici",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Camera and photographic supply shops"
@@ -2289,6 +2526,7 @@ module.exports = {
         "name": "Mcc/5947",
         "text": "Articoli regalo e souvenir",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Gift, card, novelty and souvenir shops"
@@ -2299,6 +2537,7 @@ module.exports = {
         "name": "Mcc/5948",
         "text": "Valigerie e articoli in pelle",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Luggage and leather goods shops"
@@ -2309,6 +2548,7 @@ module.exports = {
         "name": "Mcc/5949",
         "text": "Mercerie",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Sewing, needlework, fabric and piece goods shops"
@@ -2319,6 +2559,7 @@ module.exports = {
         "name": "Mcc/5950",
         "text": "Vetrerie e cristallerie",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Glassware and crystal shops"
@@ -2329,6 +2570,7 @@ module.exports = {
         "name": "Mcc/5960",
         "text": "Marketing diretto - Servizi assicurativi",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Direct marketing — insurance services"
@@ -2339,6 +2581,7 @@ module.exports = {
         "name": "Mcc/5961",
         "text": "Vendite per catalogo e corrispondenza",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Mail Order Houses Including Catalog Order Stores"
@@ -2349,6 +2592,7 @@ module.exports = {
         "name": "Mcc/5962",
         "text": "Telemarketing — Servizi di organizzazione viaggi",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Telemarketing — travel-related arrangement services"
@@ -2359,6 +2603,7 @@ module.exports = {
         "name": "Mcc/5963",
         "text": "Vendite porta a porta",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Door-to-door sales"
@@ -2369,6 +2614,7 @@ module.exports = {
         "name": "Mcc/5964",
         "text": "Marketing diretto - Rivenditori per catalogo",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Direct marketing — catalogue merchants"
@@ -2379,6 +2625,7 @@ module.exports = {
         "name": "Mcc/5965",
         "text": "Marketing diretto - Rivenditori per catalogo e al dettaglio",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Direct marketing — combination catalogue and retail merchants"
@@ -2389,6 +2636,7 @@ module.exports = {
         "name": "Mcc/5966",
         "text": "Marketing diretto - Vendite telemarketing outbound",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Direct marketing — outbound telemarketing merchants"
@@ -2399,6 +2647,7 @@ module.exports = {
         "name": "Mcc/5967",
         "text": "Marketing diretto - Vendite telemarketing inbound",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Direct marketing — inbound telemarketing merchants"
@@ -2409,6 +2658,7 @@ module.exports = {
         "name": "Mcc/5968",
         "text": "Marketing diretto - Abbonamenti",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Direct marketing — continuity/subscription merchants"
@@ -2419,6 +2669,7 @@ module.exports = {
         "name": "Mcc/5969",
         "text": "Marketing diretto - Non classificati altrove",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Direct marketing/direct marketers — not elsewhere classified"
@@ -2429,6 +2680,7 @@ module.exports = {
         "name": "Mcc/5970",
         "text": "Articoli per artisti e artigianato",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Artist’s Supply and Craft Shops"
@@ -2439,6 +2691,7 @@ module.exports = {
         "name": "Mcc/5971",
         "text": "Mercanti d'arte e gallerie",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Art Dealers and Galleries"
@@ -2449,6 +2702,7 @@ module.exports = {
         "name": "Mcc/5972",
         "text": "Francobolli e monete",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Stamp and coin shops"
@@ -2459,6 +2713,7 @@ module.exports = {
         "name": "Mcc/5973",
         "text": "Articoli religiosi",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Religious goods and shops"
@@ -2469,6 +2724,7 @@ module.exports = {
         "name": "Mcc/5974",
         "text": "Timbri",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Rubber Stamp Store"
@@ -2479,6 +2735,7 @@ module.exports = {
         "name": "Mcc/5975",
         "text": "Apparecchi acustici",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Hearing aids — sales, service and supplies"
@@ -2489,6 +2746,7 @@ module.exports = {
         "name": "Mcc/5976",
         "text": "Articoli e dispositivi protesici",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Orthopaedic goods and prosthetic devices"
@@ -2499,6 +2757,7 @@ module.exports = {
         "name": "Mcc/5977",
         "text": "Negozi di cosmetici",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Cosmetic Stores"
@@ -2509,6 +2768,7 @@ module.exports = {
         "name": "Mcc/5978",
         "text": "Macchine da scrivere",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Typewriter outlets — sales, service and rentals"
@@ -2519,6 +2779,7 @@ module.exports = {
         "name": "Mcc/5983",
         "text": "Rivenditori di combustibili",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Fuel dealers — fuel oil, wood, coal and liquefied petroleum"
@@ -2529,6 +2790,7 @@ module.exports = {
         "name": "Mcc/5992",
         "text": "Fioristi",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Florists"
@@ -2539,6 +2801,7 @@ module.exports = {
         "name": "Mcc/5993",
         "text": "Tabaccai",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Cigar shops and stands"
@@ -2549,6 +2812,7 @@ module.exports = {
         "name": "Mcc/5994",
         "text": "Edicole e giornalai",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Newsagents and news-stands"
@@ -2559,6 +2823,7 @@ module.exports = {
         "name": "Mcc/5995",
         "text": "Animali, cibo e articoli per animali",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Pet shops, pet food and supplies"
@@ -2569,6 +2834,7 @@ module.exports = {
         "name": "Mcc/5996",
         "text": "Piscine",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Swimming pools — sales, supplies and services"
@@ -2579,6 +2845,7 @@ module.exports = {
         "name": "Mcc/5997",
         "text": "Rasoi elettrici",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Electric razor outlets — sales and service"
@@ -2589,6 +2856,7 @@ module.exports = {
         "name": "Mcc/5998",
         "text": "Tende e tendaggi",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Tent and awning shops"
@@ -2599,6 +2867,7 @@ module.exports = {
         "name": "Mcc/5999",
         "text": "Commercianti di articoli vari",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Miscellaneous and speciality retail outlets"
@@ -2609,6 +2878,7 @@ module.exports = {
         "name": "Mcc/6010",
         "text": "Istituti finanziari - Erogazione manuale di contanti",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Financial institutions — manual cash disbursements"
@@ -2619,6 +2889,7 @@ module.exports = {
         "name": "Mcc/6011",
         "text": "Istituti finanziari - Erogazione automatica di contanti",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Financial institutions — automated cash disbursements"
@@ -2629,6 +2900,7 @@ module.exports = {
         "name": "Mcc/6012",
         "text": "Istituti finanziari - Beni e servizi",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Financial institutions — merchandise and services"
@@ -2639,6 +2911,7 @@ module.exports = {
         "name": "Mcc/6050",
         "text": "Cambio valuta, traveler's cheque, ordini di pagamento (Istituti finanziari)",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Quasi Cash—Customer Financial Institution"
@@ -2649,6 +2922,7 @@ module.exports = {
         "name": "Mcc/6051",
         "text": "Cambio valuta, traveler's cheque, ordini di pagamento (Esercenti)",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Non-financial institutions — foreign currency, money orders (not wire transfer),  scrip and travellers’ checks"
@@ -2659,6 +2933,7 @@ module.exports = {
         "name": "Mcc/6211",
         "text": "Titoli - Broker e dealer",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Securities — brokers and dealers"
@@ -2669,6 +2944,7 @@ module.exports = {
         "name": "Mcc/6300",
         "text": "Vendite, sottoscrizioni e premi assicurativi",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Insurance sales, underwriting and premiums"
@@ -2679,6 +2955,7 @@ module.exports = {
         "name": "Mcc/6381",
         "text": "Premi assicurativi",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Insurance–Premiums"
@@ -2689,6 +2966,7 @@ module.exports = {
         "name": "Mcc/6399",
         "text": "Altre attività assicurative - non categorizzate altrove",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Insurance, Not Elsewhere Classified ( no longer valid for first presentment work)"
@@ -2699,6 +2977,7 @@ module.exports = {
         "name": "Mcc/6513",
         "text": "Locazione e gestione di immobili residenziali",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Real Estate Agents and Managers"
@@ -2709,6 +2988,7 @@ module.exports = {
         "name": "Mcc/6529",
         "text": "Ricarica di carte prepagate (Istituti finanziari)",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Remote Stored Value Load — Member Financial Institution"
@@ -2719,6 +2999,7 @@ module.exports = {
         "name": "Mcc/6530",
         "text": "Ricarica di carte prepagate (Esercenti)",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Remove Stored Value Load — Merchant"
@@ -2729,6 +3010,7 @@ module.exports = {
         "name": "Mcc/6532",
         "text": "Trasferimento di denaro",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Payment Transaction—Customer Financial Institution"
@@ -2739,6 +3021,7 @@ module.exports = {
         "name": "Mcc/6533",
         "text": "Trasferimento di denaro",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Payment Transaction—Merchant"
@@ -2749,6 +3032,7 @@ module.exports = {
         "name": "Mcc/6535",
         "text": "Valore d'acquisto - Istituti finanziari membri",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Value Purchase–Member Financial Institution"
@@ -2759,6 +3043,7 @@ module.exports = {
         "name": "Mcc/6536",
         "text": "Trasferimento di denaro nazionale (tramite MoneySend)",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "MoneySend Intracountry"
@@ -2769,6 +3054,7 @@ module.exports = {
         "name": "Mcc/6537",
         "text": "Trasferimento di denaro internazionale (tramite MoneySend)",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "MoneySend Intercountry"
@@ -2779,6 +3065,7 @@ module.exports = {
         "name": "Mcc/6538",
         "text": "Trasferimento di denaro tramite MoneySend",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "MoneySend Funding"
@@ -2789,6 +3076,7 @@ module.exports = {
         "name": "Mcc/6539",
         "text": "Trasferimento di denaro",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Funding Transaction (Excluding MoneySend)"
@@ -2799,6 +3087,7 @@ module.exports = {
         "name": "Mcc/6540",
         "text": "Acquisto e ricarica di carte prepagate",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Non-Financial Institutions – Stored Value Card Purchase/Load"
@@ -2809,6 +3098,7 @@ module.exports = {
         "name": "Mcc/6611",
         "text": "Pagamenti in eccesso",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Overpayments"
@@ -2819,6 +3109,7 @@ module.exports = {
         "name": "Mcc/6760",
         "text": "Obbligazioni di risparmio",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Savings Bonds"
@@ -2829,6 +3120,7 @@ module.exports = {
         "name": "Mcc/7011",
         "text": "Alloggi - Hotel, motel e resort",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Lodging — hotels, motels and resorts"
@@ -2839,6 +3131,7 @@ module.exports = {
         "name": "Mcc/7012",
         "text": "Multiproprietà",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Timeshares"
@@ -2849,6 +3142,7 @@ module.exports = {
         "name": "Mcc/7032",
         "text": "Campi sportivi e ricreativi",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Sporting and recreational camps"
@@ -2859,6 +3153,7 @@ module.exports = {
         "name": "Mcc/7033",
         "text": "Parcheggi per roulotte e campeggi",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Trailer parks and camp-sites"
@@ -2869,6 +3164,7 @@ module.exports = {
         "name": "Mcc/7210",
         "text": "Servizi di lavanderia, pulitura e abbigliamento",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Laundry, cleaning and garment services"
@@ -2879,6 +3175,7 @@ module.exports = {
         "name": "Mcc/7211",
         "text": "Servizi di lavanderia - per privati e aziende",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Laundry services — family and commercial"
@@ -2889,6 +3186,7 @@ module.exports = {
         "name": "Mcc/7216",
         "text": "Lavanderie a secco",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Dry cleaners"
@@ -2899,6 +3197,7 @@ module.exports = {
         "name": "Mcc/7217",
         "text": "Pulitura tappeti e tappezzerie",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Carpet and upholstery cleaning"
@@ -2909,6 +3208,7 @@ module.exports = {
         "name": "Mcc/7221",
         "text": "Studi fotografici",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Photographic studios"
@@ -2919,6 +3219,7 @@ module.exports = {
         "name": "Mcc/7230",
         "text": "Barbieri e centri estetici",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Barber and Beauty Shops"
@@ -2929,6 +3230,7 @@ module.exports = {
         "name": "Mcc/7251",
         "text": "Riparazione, pulitura, smacchiatura scarpe",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Shoe repair shops, shoe shine parlours and hat cleaning shops"
@@ -2939,6 +3241,7 @@ module.exports = {
         "name": "Mcc/7261",
         "text": "Pompe funebri e cremature",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Funeral services and crematoriums"
@@ -2949,6 +3252,7 @@ module.exports = {
         "name": "Mcc/7273",
         "text": "Incontri ed escort",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Dating and escort services"
@@ -2959,6 +3263,7 @@ module.exports = {
         "name": "Mcc/7276",
         "text": "Consulenza fiscale",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Tax preparation services"
@@ -2969,6 +3274,7 @@ module.exports = {
         "name": "Mcc/7277",
         "text": "Consulenza - debiti, matrimoni e questioni personali",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Counselling services — debt, marriage and personal"
@@ -2979,6 +3285,7 @@ module.exports = {
         "name": "Mcc/7278",
         "text": "Shopping club",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Buying and shopping services and clubs"
@@ -2989,6 +3296,7 @@ module.exports = {
         "name": "Mcc/7280",
         "text": "Spese ospedaliere",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Hospital Patient-Personal Funds Withdrawal"
@@ -2999,6 +3307,7 @@ module.exports = {
         "name": "Mcc/7295",
         "text": "Baby-sitting",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Babysitting Services"
@@ -3009,6 +3318,7 @@ module.exports = {
         "name": "Mcc/7296",
         "text": "Noleggio di abiti - Costumi, uniformi e da cerimonia",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Clothing rentals — costumes, uniforms and formal wear"
@@ -3019,6 +3329,7 @@ module.exports = {
         "name": "Mcc/7297",
         "text": "Centri massaggio",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Massage parlours"
@@ -3029,6 +3340,7 @@ module.exports = {
         "name": "Mcc/7298",
         "text": "Centri benessere e di bellezza",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Health and beauty spas"
@@ -3039,6 +3351,7 @@ module.exports = {
         "name": "Mcc/7299",
         "text": "Servizi vari alla persona - Non classificati altrove",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Miscellaneous personal services — not elsewhere classified"
@@ -3049,6 +3362,7 @@ module.exports = {
         "name": "Mcc/7311",
         "text": "Agenzie di pubblicità",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Advertising Services"
@@ -3059,6 +3373,7 @@ module.exports = {
         "name": "Mcc/7321",
         "text": "Agenzie di informazione commerciale e recupero crediti",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Consumer credit reporting agencies"
@@ -3069,6 +3384,7 @@ module.exports = {
         "name": "Mcc/7322",
         "text": "Agenzie di recupero crediti",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Debt collection agencies"
@@ -3079,6 +3395,7 @@ module.exports = {
         "name": "Mcc/7332",
         "text": "Fotocopie e riproduzioni cianografiche (copisterie)",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Blueprinting and Photocopying Services"
@@ -3089,6 +3406,7 @@ module.exports = {
         "name": "Mcc/7333",
         "text": "Agenzie fotografiche e di grafica pubblicitaria",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Commercial photography, art and graphics"
@@ -3099,6 +3417,7 @@ module.exports = {
         "name": "Mcc/7338",
         "text": "Fotocopiatura, riproduzione e stampa rapida",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Quick copy, reproduction and blueprinting services"
@@ -3109,6 +3428,7 @@ module.exports = {
         "name": "Mcc/7339",
         "text": "Servizi stenografici e di segreteria",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Stenographic and secretarial support services"
@@ -3119,6 +3439,7 @@ module.exports = {
         "name": "Mcc/7342",
         "text": "Disinfezione e disinfestazione",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Exterminating and disinfecting services"
@@ -3129,6 +3450,7 @@ module.exports = {
         "name": "Mcc/7349",
         "text": "Pulizia, manutenzione e portineria",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Cleaning, maintenance and janitorial services"
@@ -3139,6 +3461,7 @@ module.exports = {
         "name": "Mcc/7361",
         "text": "Agenzie di collocamento",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Employment agencies and temporary help services"
@@ -3149,6 +3472,7 @@ module.exports = {
         "name": "Mcc/7372",
         "text": "Programmazione per computer e produzione software",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Computer programming, data processing and integrated systems design services"
@@ -3159,6 +3483,7 @@ module.exports = {
         "name": "Mcc/7375",
         "text": "Servizi di Information Retrieval",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Information retrieval services"
@@ -3169,6 +3494,7 @@ module.exports = {
         "name": "Mcc/7379",
         "text": "Manutenzione, riparazione computer - Non classificati altrove",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Computer maintenance and repair services — not elsewhere classified"
@@ -3179,6 +3505,7 @@ module.exports = {
         "name": "Mcc/7392",
         "text": "Consulenza e pubbliche relazioni",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Management, consulting and public relations services"
@@ -3189,6 +3516,7 @@ module.exports = {
         "name": "Mcc/7393",
         "text": "Agenzie investigative, scorta e security",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Detective agencies, protective agencies and security services, including  armoured cars and guard dogs"
@@ -3199,6 +3527,7 @@ module.exports = {
         "name": "Mcc/7394",
         "text": "Noleggio e leasing di apparecchiature",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Equipment, tool, furniture and appliance rentals and leasing"
@@ -3209,6 +3538,7 @@ module.exports = {
         "name": "Mcc/7395",
         "text": "Laboratori di sviluppo e stampa fotografica",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Photofinishing laboratories and photo developing"
@@ -3219,6 +3549,7 @@ module.exports = {
         "name": "Mcc/7399",
         "text": "Servizi alle imprese - Non classificati altrove",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Business services — not elsewhere classified"
@@ -3229,6 +3560,7 @@ module.exports = {
         "name": "Mcc/7511",
         "text": "Stazioni di servizio",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Truck Stop"
@@ -3239,6 +3571,7 @@ module.exports = {
         "name": "Mcc/7512",
         "text": "Agenzie di noleggio auto - Non classificate altrove",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Automobile Rental Agency—not elsewhere classified"
@@ -3249,6 +3582,7 @@ module.exports = {
         "name": "Mcc/7513",
         "text": "Noleggio di camion e rimorchi utilitari",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Truck and utility trailer rentals"
@@ -3259,6 +3593,7 @@ module.exports = {
         "name": "Mcc/7519",
         "text": "Noleggio di camper e veicoli ricreativi",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Motor home and recreational vehicle rentals"
@@ -3269,6 +3604,7 @@ module.exports = {
         "name": "Mcc/7523",
         "text": "Parcheggi e autorimesse",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Parking lots and garages"
@@ -3279,6 +3615,7 @@ module.exports = {
         "name": "Mcc/7524",
         "text": "Pagamento rapido di parcheggi e autorimesse",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Express Payment Service Merchants–Parking Lots and Garages"
@@ -3289,6 +3626,7 @@ module.exports = {
         "name": "Mcc/7531",
         "text": "Carrozzieri",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Automotive Body Repair Shops"
@@ -3299,6 +3637,7 @@ module.exports = {
         "name": "Mcc/7534",
         "text": "Riparazione e vulcanizzazione pneumatici",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Tyre retreading and repair shops"
@@ -3309,6 +3648,7 @@ module.exports = {
         "name": "Mcc/7535",
         "text": "Verniciatura carrozzerie",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Automotive Paint Shops"
@@ -3319,6 +3659,7 @@ module.exports = {
         "name": "Mcc/7538",
         "text": "Servizi per autoveicoli (non concessionari)",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Automotive Service Shops (Non-Dealer)"
@@ -3329,6 +3670,7 @@ module.exports = {
         "name": "Mcc/7539",
         "text": "Negozi di servizi per autoveicoli (Spagna) - Altre categorie commerciali",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Automotive Service Shops (Spain) - Other Merchant Categories"
@@ -3339,6 +3681,7 @@ module.exports = {
         "name": "Mcc/7542",
         "text": "Autolavaggi",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Car washes"
@@ -3349,6 +3692,7 @@ module.exports = {
         "name": "Mcc/7549",
         "text": "Servizi assistenza auto",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Towing services"
@@ -3359,6 +3703,7 @@ module.exports = {
         "name": "Mcc/7622",
         "text": "Riparazione radio, tv, hi-fi",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Electronics repair shops"
@@ -3369,6 +3714,7 @@ module.exports = {
         "name": "Mcc/7623",
         "text": "Riparazione aria condizionata e refrigerazione",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Air Conditioning and Refrigeration Repair Shops"
@@ -3379,6 +3725,7 @@ module.exports = {
         "name": "Mcc/7629",
         "text": "Riparazioni elettriche e piccoli elettrodomestici",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Electrical and small appliance repair shops"
@@ -3389,6 +3736,7 @@ module.exports = {
         "name": "Mcc/7631",
         "text": "Riparazione di orologi e gioielli",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Watch, clock and jewellery repair shops"
@@ -3399,6 +3747,7 @@ module.exports = {
         "name": "Mcc/7641",
         "text": "Rivestimenti, riparazioni e rifiniture di mobili",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Furniture reupholstery, repair and refinishing"
@@ -3409,6 +3758,7 @@ module.exports = {
         "name": "Mcc/7692",
         "text": "Saldature",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Welding services"
@@ -3419,6 +3769,7 @@ module.exports = {
         "name": "Mcc/7699",
         "text": "Servizi di riparazione vari",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Miscellaneous repair shops and related services"
@@ -3429,6 +3780,7 @@ module.exports = {
         "name": "Mcc/7800",
         "text": "Lotterie di stato (solo Stati Uniti)",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Government-Owned Lotteries (US Region only)"
@@ -3439,6 +3791,7 @@ module.exports = {
         "name": "Mcc/7801",
         "text": "Casinò online con licenza (solo Stati Uniti)",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Government Licensed On-Line Casinos (On-Line Gambling) (US Region only)"
@@ -3449,6 +3802,7 @@ module.exports = {
         "name": "Mcc/7802",
         "text": "Corse di cavalli e cani con licenza (solo Stati Uniti)",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Government-Licensed Horse/Dog Racing (US Region only)"
@@ -3459,6 +3813,7 @@ module.exports = {
         "name": "Mcc/7829",
         "text": "Produzione e distribuzione di film e videocassette",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Motion picture and video tape production and distribution"
@@ -3469,6 +3824,7 @@ module.exports = {
         "name": "Mcc/7832",
         "text": "Cinema",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Motion picture theatres"
@@ -3479,6 +3835,7 @@ module.exports = {
         "name": "Mcc/7833",
         "text": "Cinema (Drive-in)",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Express Payment Service — Motion Picture Theater"
@@ -3489,6 +3846,7 @@ module.exports = {
         "name": "Mcc/7841",
         "text": "Noleggio di videocassette",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Video tape rentals"
@@ -3499,6 +3857,7 @@ module.exports = {
         "name": "Mcc/7911",
         "text": "Sale da ballo, studi e scuole",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Dance halls, studios and schools"
@@ -3509,6 +3868,7 @@ module.exports = {
         "name": "Mcc/7922",
         "text": "Produzione, compagnie e altri servizi teatrali",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Theatrical producers (except motion pictures) and ticket agencies"
@@ -3519,6 +3879,7 @@ module.exports = {
         "name": "Mcc/7929",
         "text": "Bande, orchestre e intrattenitori - non classificati altrove",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Bands, Orchestras, and Miscellaneous Entertainers (Not Elsewhere Classified)"
@@ -3529,6 +3890,7 @@ module.exports = {
         "name": "Mcc/7932",
         "text": "Sale da biliardo",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Billiard and Pool Establishments"
@@ -3539,6 +3901,7 @@ module.exports = {
         "name": "Mcc/7933",
         "text": "Piste da bowling",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Bowling Alleys"
@@ -3549,6 +3912,7 @@ module.exports = {
         "name": "Mcc/7941",
         "text": "Circoli sportivi e organizzazioni professionistiche",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Commercial sports, professional sports clubs, athletic fields and sports promoters"
@@ -3559,6 +3923,7 @@ module.exports = {
         "name": "Mcc/7991",
         "text": "Attrazioni turistiche e mostre",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Tourist attractions and exhibits"
@@ -3569,6 +3934,7 @@ module.exports = {
         "name": "Mcc/7992",
         "text": "Campi da golf pubblici",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Public golf courses"
@@ -3579,6 +3945,7 @@ module.exports = {
         "name": "Mcc/7993",
         "text": "Attrezzature per videogiochi",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Video amusement game supplies"
@@ -3589,6 +3956,7 @@ module.exports = {
         "name": "Mcc/7994",
         "text": "Sale giochi",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Video game arcades and establishments"
@@ -3599,6 +3967,7 @@ module.exports = {
         "name": "Mcc/7995",
         "text": "Scommesse, lotterie e casinò",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Betting, including Lottery Tickets, Casino Gaming Chips, Off-Track Betting, and  Wagers at Race Tracks"
@@ -3609,6 +3978,7 @@ module.exports = {
         "name": "Mcc/7996",
         "text": "Parchi divertimento e circhi",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Amusement Parks, Circuses, Carnivals, and Fortune Tellers"
@@ -3619,6 +3989,7 @@ module.exports = {
         "name": "Mcc/7997",
         "text": "Club sportivi e ricreativi privati",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Membership clubs (sports, recreation, athletic), country clubs and private golf  courses"
@@ -3629,6 +4000,7 @@ module.exports = {
         "name": "Mcc/7998",
         "text": "Acquari e zoo",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Aquariums, Seaquariums, Dolphinariums, and Zoos"
@@ -3639,6 +4011,7 @@ module.exports = {
         "name": "Mcc/7999",
         "text": "Servizi ricreativi - non classificati altrove",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Recreation services — not elsewhere classified"
@@ -3649,6 +4022,7 @@ module.exports = {
         "name": "Mcc/8011",
         "text": "Studi medici - non classificati altrove",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Doctors and physicians — not elsewhere classified"
@@ -3659,6 +4033,7 @@ module.exports = {
         "name": "Mcc/8021",
         "text": "Studi dentistici e odontoiatrici",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Dentists and orthodontists"
@@ -3669,6 +4044,7 @@ module.exports = {
         "name": "Mcc/8031",
         "text": "Studi osteopatici",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Osteopaths"
@@ -3679,6 +4055,7 @@ module.exports = {
         "name": "Mcc/8041",
         "text": "Studi chiropratici",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Chiropractors"
@@ -3689,6 +4066,7 @@ module.exports = {
         "name": "Mcc/8042",
         "text": "Studi optometrici e oculistici",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Optometrists and ophthalmologists"
@@ -3699,6 +4077,7 @@ module.exports = {
         "name": "Mcc/8043",
         "text": "Ottici, articoli ottici e occhiali da vista",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Opticians, optical goods and eyeglasses"
@@ -3709,6 +4088,7 @@ module.exports = {
         "name": "Mcc/8044",
         "text": "Articoli ottici e occhiali da vista",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Optical Goods and Eyeglasses"
@@ -3719,6 +4099,7 @@ module.exports = {
         "name": "Mcc/8049",
         "text": "Podologi e chiropodisti",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Podiatrists and chiropodists"
@@ -3729,6 +4110,7 @@ module.exports = {
         "name": "Mcc/8050",
         "text": "Strutture di cura e assistenza personale",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Nursing and personal care facilities"
@@ -3739,6 +4121,7 @@ module.exports = {
         "name": "Mcc/8062",
         "text": "Ospedali",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Hospitals"
@@ -3749,6 +4132,7 @@ module.exports = {
         "name": "Mcc/8071",
         "text": "Laboratori medici e odontotecnici",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Medical and dental laboratories"
@@ -3759,6 +4143,7 @@ module.exports = {
         "name": "Mcc/8099",
         "text": "Servizi medici e sanitari - Non classificati altrove",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Medical services and health practitioners — not elsewhere classified"
@@ -3769,6 +4154,7 @@ module.exports = {
         "name": "Mcc/8111",
         "text": "Studi legali e avvocati",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Legal services and attorneys"
@@ -3779,6 +4165,7 @@ module.exports = {
         "name": "Mcc/8211",
         "text": "Scuole elementari e medie",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Elementary and secondary schools"
@@ -3789,6 +4176,7 @@ module.exports = {
         "name": "Mcc/8220",
         "text": "Licei, università, scuole professionali",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Colleges, universities, professional schools and junior colleges"
@@ -3799,6 +4187,7 @@ module.exports = {
         "name": "Mcc/8241",
         "text": "Scuole per corrispondenza",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Correspondence schools"
@@ -3809,6 +4198,7 @@ module.exports = {
         "name": "Mcc/8244",
         "text": "Scuole commerciali e per segretari",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Business and secretarial schools"
@@ -3819,6 +4209,7 @@ module.exports = {
         "name": "Mcc/8249",
         "text": "Istituti tecnici e professionali",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Trade and vocational schools"
@@ -3829,6 +4220,7 @@ module.exports = {
         "name": "Mcc/8299",
         "text": "Scuole e servizi educativi - Non classificati altrove",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Schools and educational services — not elsewhere classified"
@@ -3839,6 +4231,7 @@ module.exports = {
         "name": "Mcc/8351",
         "text": "Servizi per l'infanzia",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Child care services"
@@ -3849,6 +4242,7 @@ module.exports = {
         "name": "Mcc/8398",
         "text": "Beneficenza e servizi sociali",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Charitable and social service organizations"
@@ -3859,6 +4253,7 @@ module.exports = {
         "name": "Mcc/8641",
         "text": "Associazioni civiche, sociali e confraternite",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Civic, social and fraternal associations"
@@ -3869,6 +4264,7 @@ module.exports = {
         "name": "Mcc/8651",
         "text": "Organizzazioni politiche",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Political organizations"
@@ -3879,6 +4275,7 @@ module.exports = {
         "name": "Mcc/8661",
         "text": "Organizzazioni religiose",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Religious organizations"
@@ -3889,6 +4286,7 @@ module.exports = {
         "name": "Mcc/8675",
         "text": "Associazioni automobilistiche",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Automobile Associations"
@@ -3899,6 +4297,7 @@ module.exports = {
         "name": "Mcc/8699",
         "text": "Organizzazioni associative - Non classificate altrove",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Membership organization — not elsewhere classified"
@@ -3909,6 +4308,7 @@ module.exports = {
         "name": "Mcc/8734",
         "text": "Laboratori di analisi (non mediche)",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Testing laboratories (non-medical)"
@@ -3919,6 +4319,7 @@ module.exports = {
         "name": "Mcc/8911",
         "text": "Servizi di architettura, ingegneria e rilevamento",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Architectural, Engineering, and Surveying Services"
@@ -3929,6 +4330,7 @@ module.exports = {
         "name": "Mcc/8931",
         "text": "Servizi di amministrazione, revisione e contabilità",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Accounting, Auditing, and Bookkeeping Services"
@@ -3939,6 +4341,7 @@ module.exports = {
         "name": "Mcc/8999",
         "text": "Servizi professionali - Non classificati altrove",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Professional services — not elsewhere classified"
@@ -3949,6 +4352,7 @@ module.exports = {
         "name": "Mcc/9034",
         "text": "I-Purchasing Pilot",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "I-Purchasing Pilot"
@@ -3959,6 +4363,7 @@ module.exports = {
         "name": "Mcc/9211",
         "text": "Tribunali e spese giudiziarie",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Court costs, including alimony and child support"
@@ -3969,6 +4374,7 @@ module.exports = {
         "name": "Mcc/9222",
         "text": "Multe",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Fines"
@@ -3979,6 +4385,7 @@ module.exports = {
         "name": "Mcc/9223",
         "text": "Cauzioni carcerarie",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Bail and Bond Payments"
@@ -3989,6 +4396,7 @@ module.exports = {
         "name": "Mcc/9311",
         "text": "Finanza pubblica, tassazione e politica monetaria",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Tax payments"
@@ -3999,6 +4407,7 @@ module.exports = {
         "name": "Mcc/9399",
         "text": "Servizi pubblici - Non classificati altrove",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Government services — not elsewhere classified"
@@ -4009,6 +4418,7 @@ module.exports = {
         "name": "Mcc/9402",
         "text": "Servizi postali - Solo per lo stato",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Postal services — government only"
@@ -4019,6 +4429,7 @@ module.exports = {
         "name": "Mcc/9405",
         "text": "Agenzie o dipartimenti del governo federale degli Stati Uniti",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "U.S. Federal Government Agencies or Departments"
@@ -4029,6 +4440,7 @@ module.exports = {
         "name": "Mcc/9406",
         "text": "Lotterie di stato (tranne Stati Uniti)",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Government-Owned Lotteries (Non-U.S. region)"
@@ -4039,6 +4451,7 @@ module.exports = {
         "name": "Mcc/9700",
         "text": "Automated Referral Service",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Automated Referral Service"
@@ -4049,6 +4462,7 @@ module.exports = {
         "name": "Mcc/9701",
         "text": "Visa Credential Server",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Visa Credential Server"
@@ -4059,6 +4473,7 @@ module.exports = {
         "name": "Mcc/9702",
         "text": "Servizi di emergenza (GCAS) (solo Visa)",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Emergency Services (GCAS) (Visa use only)"
@@ -4069,6 +4484,7 @@ module.exports = {
         "name": "Mcc/9751",
         "text": "Supermercati del Regno Unito -  Electronic Hot File",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "UK Supermarkets, Electronic Hot File"
@@ -4079,6 +4495,7 @@ module.exports = {
         "name": "Mcc/9752",
         "text": "Stazioni di servizio del Regno Unito -  Electronic Hot File",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "UK Petrol Stations, Electronic Hot File"
@@ -4089,6 +4506,7 @@ module.exports = {
         "name": "Mcc/9754",
         "text": "Gioco d'azzardo, corse di cani, lotterie statali",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Gambling-Horse, Dog Racing, State Lottery"
@@ -4099,6 +4517,7 @@ module.exports = {
         "name": "Mcc/9950",
         "text": "Acquisti intrasocietari",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Intra-Company Purchases"
@@ -4109,6 +4528,7 @@ module.exports = {
         "name": "Mcc/R999",
         "text": "Codice MCC temporaneamente non definito",
         "status": "NONE",
+        "folder": "mcc",
         "variants": {
           "en": {
             "text": "Temporarily undefined MCC code"
@@ -4119,23 +4539,27 @@ module.exports = {
         "name": "Payments/Field/AuthCode",
         "text": "Codice autorizzativo",
         "status": "FINAL",
+        "folder": null,
         "notes": "Mostrato quando si paga con carta"
       },
       "payments.field.cardholder": {
         "name": "Payments/Field/Cardholder",
         "text": "Intestato a",
-        "status": "FINAL"
+        "status": "FINAL",
+        "folder": null
       },
       "payments.field.debtor": {
         "name": "Payments/Field/Debtor",
         "text": "Debitore",
         "status": "FINAL",
+        "folder": null,
         "notes": "L'intestatario della posizione debitoria. Non coincide necessariamente con chi paga."
       },
       "payments.field.fee": {
         "name": "Payments/Field/Fee",
         "text": "Commissione (applicata da {{DenominazionePSP}})",
         "status": "FINAL",
+        "folder": null,
         "variables": {
           "DenominazionePSP": {
             "example": "American Express Payment Services"
@@ -4145,17 +4569,20 @@ module.exports = {
       "payments.field.iuv": {
         "name": "Payments/Field/IUV",
         "text": "IUV",
-        "status": "FINAL"
+        "status": "FINAL",
+        "folder": null
       },
       "payments.field.noticeamount": {
         "name": "Payments/Field/NoticeAmount",
         "text": "Importo",
-        "status": "FINAL"
+        "status": "FINAL",
+        "folder": null
       },
       "payments.field.psp": {
         "name": "Payments/Field/PSP",
         "text": "Gestore della transazione (PSP)",
         "status": "FINAL",
+        "folder": null,
         "variants": {
           "-dentro-frase": {
             "text": "gestore della transazione (PSP)"
@@ -4165,87 +4592,104 @@ module.exports = {
       "payments.field.pspcode": {
         "name": "Payments/Field/PSPCode",
         "text": "Codice PSP",
-        "status": "FINAL"
+        "status": "FINAL",
+        "folder": null
       },
       "payments.field.paid-by": {
         "name": "Payments/Field/Paid by",
         "text": "Pagato da",
-        "status": "FINAL"
+        "status": "FINAL",
+        "folder": null
       },
       "payments.field.payeetaxcode": {
         "name": "Payments/Field/PayeeTaxCode",
         "text": "C.F Ente",
-        "status": "FINAL"
+        "status": "FINAL",
+        "folder": null
       },
       "payments.field.paymentmethod": {
         "name": "Payments/Field/PaymentMethod",
         "text": "Metodo di pagamento",
-        "status": "FINAL"
+        "status": "FINAL",
+        "folder": null
       },
       "payments.field.paymentreason": {
         "name": "Payments/Field/PaymentReason",
         "text": "Oggetto del pagamento",
-        "status": "FINAL"
+        "status": "FINAL",
+        "folder": null
       },
       "payments.field.rrn": {
         "name": "Payments/Field/RRN",
         "text": "ID transazione (RRN)",
-        "status": "FINAL"
+        "status": "FINAL",
+        "folder": null
       },
       "payments.field.subject": {
         "name": "Payments/Field/Subject",
         "text": "Oggetto ",
-        "status": "FINAL"
+        "status": "FINAL",
+        "folder": null
       },
       "payments.field.timestamp": {
         "name": "Payments/Field/Timestamp",
         "text": "Data e ora",
-        "status": "FINAL"
+        "status": "FINAL",
+        "folder": null
       },
       "payments.field.tobepaid": {
         "name": "Payments/Field/ToBePaid",
         "text": "Totale",
-        "status": "FINAL"
+        "status": "FINAL",
+        "folder": null
       },
       "payments.field.transactioncode": {
         "name": "Payments/Field/TransactionCode",
         "text": "Codice transazione",
-        "status": "FINAL"
+        "status": "FINAL",
+        "folder": null
       },
       "payments.method.bankaccount": {
         "name": "Payments/Method/BankAccount",
         "text": "Conto corrente *1234",
-        "status": "FINAL"
+        "status": "FINAL",
+        "folder": null
       },
       "payments.method.card": {
         "name": "Payments/Method/Card",
         "text": "Mastercard *1234",
-        "status": "FINAL"
+        "status": "FINAL",
+        "folder": null
       },
       "payments.method.paypal": {
         "name": "Payments/Method/PayPal",
         "text": "PayPal",
-        "status": "FINAL"
+        "status": "FINAL",
+        "folder": null
       },
       "payments.payee": {
         "name": "Payments/Payee",
         "text": "Ente Creditore",
-        "status": "FINAL"
+        "status": "FINAL",
+        "folder": null
       },
       "payments.payeetaxcode": {
         "name": "Payments/PayeeTaxCode",
         "text": "Codice Fiscale Ente",
-        "status": "FINAL"
+        "status": "FINAL",
+        "folder": null
       },
       "payments.value.codicetransazione": {
         "name": "Payments/Value/CodiceTransazione",
         "text": "{{codice transazione}}",
-        "status": "FINAL"
+        "status": "FINAL",
+        "folder": null
       },
       "payments.value.debtor": {
         "name": "Payments/Value/Debtor",
         "text": "{{Nome}} {{Cognome}} ({{CF}})",
         "status": "FINAL",
+        "folder": null,
         "variables": {
           "Nome": {
             "example": "Marzia"
@@ -4262,6 +4706,7 @@ module.exports = {
         "name": "Payments/Value/PaidBy",
         "text": "{{Nome}} {{Cognome}} ({{CF}})",
         "status": "NONE",
+        "folder": null,
         "variables": {
           "Nome": {
             "example": "Marzia"
@@ -4278,6 +4723,7 @@ module.exports = {
         "name": "Payments/Value/Timestamp",
         "text": "{{Timestamp}}",
         "status": "FINAL",
+        "folder": null,
         "variables": {
           "Timestamp": {
             "example": "24 ottobre 2022, 18:45:56"
@@ -4288,17 +4734,20 @@ module.exports = {
       "piattaforma-notifiche.api-key.api-key": {
         "name": "Piattaforma Notifiche/API Key/API Key",
         "text": "API Key",
-        "status": "FINAL"
+        "status": "FINAL",
+        "folder": null
       },
       "piattaforma-notifiche.api-key.api-key-generate": {
         "name": "Piattaforma Notifiche/API Key/API Key generate",
         "text": "API Key generate",
-        "status": "FINAL"
+        "status": "FINAL",
+        "folder": null
       },
       "piattaforma-notifiche.api-key.api-attiva": {
         "name": "Piattaforma Notifiche/API Key/API attiva",
         "text": "Attiva",
         "status": "FINAL",
+        "folder": null,
         "notes": "Etichetta indica che una chiave API è attiva e utilizzabile.",
         "tags": [
           "LABEL"
@@ -4308,6 +4757,7 @@ module.exports = {
         "name": "Piattaforma Notifiche/API Key/API bloccata",
         "text": "Bloccata",
         "status": "FINAL",
+        "folder": null,
         "notes": "Etichetta che indica che la chiave API è stata bloccata.",
         "tags": [
           "LABEL"
@@ -4317,6 +4767,7 @@ module.exports = {
         "name": "Piattaforma Notifiche/API Key/Attiva API",
         "text": "Attiva API Key",
         "status": "FINAL",
+        "folder": null,
         "tags": [
           "TITOLO",
           "CONFIRMATION"
@@ -4326,6 +4777,7 @@ module.exports = {
         "name": "Piattaforma Notifiche/API Key/Blocca API",
         "text": "Blocca API Key ",
         "status": "FINAL",
+        "folder": null,
         "tags": [
           "TITOLO",
           "CONFIRMATION"
@@ -4335,6 +4787,7 @@ module.exports = {
         "name": "Piattaforma Notifiche/API Key/Descrizione",
         "text": "Piattaforma Notifiche offre API di invio notifiche e accesso alle informazioni sul loro stato. Qui puoi generare e gestire le API Key da utilizzare per autenticare le richieste dell’ente.",
         "status": "FINAL",
+        "folder": null,
         "notes": "Usare il verbo \"generare\" quando si parla di chiavi API — non \"creare\", \"configurare\" o altro.",
         "tags": [
           "BODY"
@@ -4344,6 +4797,7 @@ module.exports = {
         "name": "Piattaforma Notifiche/API Key/Descrizione configura",
         "text": "Piattaforma Notifiche ha generato il codice della API Key. Ora, inserisci un nome identificativo e assegnala a uno o più gruppi.",
         "status": "FINAL",
+        "folder": null,
         "tags": [
           "BODY"
         ]
@@ -4352,6 +4806,7 @@ module.exports = {
         "name": "Piattaforma Notifiche/API Key/Genera API",
         "text": "Genera API Key",
         "status": "FINAL",
+        "folder": null,
         "tags": [
           "CTA"
         ]
@@ -4360,6 +4815,7 @@ module.exports = {
         "name": "Piattaforma Notifiche/API Key/Modifica API",
         "text": "Modifica API Key",
         "status": "FINAL",
+        "folder": null,
         "tags": [
           "TITOLO"
         ]
@@ -4368,6 +4824,7 @@ module.exports = {
         "name": "Piattaforma Notifiche/API Key/Naming",
         "text": "API Key",
         "status": "FINAL",
+        "folder": null,
         "notes": "Non chiamarle \"Chiavi API\".",
         "tags": [
           "MENU",
@@ -4378,6 +4835,7 @@ module.exports = {
         "name": "Piattaforma Notifiche/API Key/Riattiva",
         "text": "Riattiva",
         "status": "REVIEW",
+        "folder": null,
         "notes": "CTA per riattivare una chiave API che è stata bloccata.",
         "tags": [
           "CTA"
@@ -4387,6 +4845,7 @@ module.exports = {
         "name": "Piattaforma Notifiche/API Key/Ruota API",
         "text": "Ruota chiave API",
         "status": "FINAL",
+        "folder": null,
         "tags": [
           "TITOLO",
           "CONFIRMATION"
@@ -4396,6 +4855,7 @@ module.exports = {
         "name": "Piattaforma Notifiche/API Key/Ultima modifica",
         "text": "Ultima modifica",
         "status": "FINAL",
+        "folder": null,
         "notes": "Etichetta che si riferisce alla data dell'ultima modifica di una chiave API",
         "tags": [
           "LABEL"
@@ -4405,6 +4865,7 @@ module.exports = {
         "name": "Piattaforma Notifiche/Ente/Gruppi",
         "text": "Gruppi",
         "status": "FINAL",
+        "folder": null,
         "notes": "Voce di menu che porta alla sezione in cui si possono definire o modificare i gruppi di lavoro di Piattaforma Notifiche. ",
         "tags": [
           "MENU"
@@ -4414,6 +4875,7 @@ module.exports = {
         "name": "Piattaforma Notifiche/Ente/Impostazioni",
         "text": "Impostazioni",
         "status": "REVIEW",
+        "folder": null,
         "tags": [
           "MENU"
         ]
@@ -4422,6 +4884,7 @@ module.exports = {
         "name": "Piattaforma Notifiche/Ente/Statistiche",
         "text": "Statistiche",
         "status": "FINAL",
+        "folder": null,
         "notes": "Voce di menu che porta alla sezione \"Statistiche\"",
         "tags": [
           "MENU"
@@ -4431,6 +4894,7 @@ module.exports = {
         "name": "Piattaforma Notifiche/Ente/Utenti",
         "text": "Utenti",
         "status": "FINAL",
+        "folder": null,
         "notes": "Voce di menu che porta alla sezione di aggiunta o modifica degli utenti che hanno accesso alla piattaforma. È visibile solo agli amministratori.",
         "tags": [
           "MENU"
@@ -4440,6 +4904,7 @@ module.exports = {
         "name": "Piattaforma Notifiche/Generale/Menu",
         "text": "Notifiche",
         "status": "FINAL",
+        "folder": null,
         "notes": "Voce di menu lato ente che porta alla tab con tutte le notifiche create e alla creazione manuale di nuove notifiche.\n\nPer \"Notifiche\" si intende \"Notifiche a valore legale\" e non \"Notifiche push\".",
         "tags": [
           "MENU"
@@ -4449,6 +4914,7 @@ module.exports = {
         "name": "Piattaforma Notifiche/Generale/Naming",
         "text": "Piattaforma Notifiche",
         "status": "FINAL",
+        "folder": null,
         "notes": "naming di prodotto temporaneo",
         "tags": [
           "PRODUCT",
@@ -4459,6 +4925,7 @@ module.exports = {
         "name": "Piattaforma Notifiche/Generale/Stato",
         "text": "Stato",
         "status": "FINAL",
+        "folder": null,
         "notes": "Etichetta che può riferirsi a una Chiave API o a una notifica.",
         "tags": [
           "LABEL"
@@ -4468,71 +4935,100 @@ module.exports = {
         "name": "Piattaforma Notifiche/Statistiche/Annullate",
         "text": "Annullate",
         "status": "FINAL",
+        "folder": null,
         "notes": "Uno dei possibili stati di una notifica"
       },
       "piattaforma-notifiche.statistiche.canali-di-consegna": {
         "name": "Piattaforma Notifiche/Statistiche/Canali di consegna",
         "text": "Canali di consegna",
         "status": "WIP",
+        "folder": null,
         "notes": "Grafico in cui si espongono le tipologie di canali tramite cui i destinatari delle notifiche vengono raggiunti"
       },
       "piattaforma-notifiche.statistiche.consegnate": {
         "name": "Piattaforma Notifiche/Statistiche/Consegnate",
         "text": "Consegnate",
         "status": "FINAL",
+        "folder": null,
         "notes": "Uno dei possibili stati di una notifica"
       },
       "piattaforma-notifiche.statistiche.decorrenza-termini": {
         "name": "Piattaforma Notifiche/Statistiche/Decorrenza termini",
         "text": "Perfezionate per \ndecorrenza termini",
         "status": "FINAL",
+        "folder": null,
         "notes": "Uno dei possibili stati di una notifica"
       },
       "piattaforma-notifiche.statistiche.depositate": {
         "name": "Piattaforma Notifiche/Statistiche/Depositate",
         "text": "Depositate",
         "status": "FINAL",
+        "folder": null,
         "notes": "Uno dei possibili stati di una notifica"
       },
       "piattaforma-notifiche.statistiche.destinatario-irreperibile": {
         "name": "Piattaforma Notifiche/Statistiche/Destinatario irreperibile",
         "text": "Destinatario irreperibile",
         "status": "WIP",
+        "folder": null,
         "notes": "Uno dei possibili stati di una notifica"
       },
       "piattaforma-notifiche.statistiche.dettagli": {
         "name": "Piattaforma Notifiche/Statistiche/Dettagli",
         "text": "Dettagli",
         "status": "FINAL",
+        "folder": null,
         "notes": "Sottosezione di \"Statistiche\" in cui si possono approfondire i dati di utilizzo della piattaforma e applicare filtri "
       },
       "piattaforma-notifiche.statistiche.invio-in-corso": {
         "name": "Piattaforma Notifiche/Statistiche/Invio in corso",
         "text": "Invio in corso",
         "status": "FINAL",
+        "folder": null,
         "notes": "Uno dei possibili stati di una notifica"
       },
       "piattaforma-notifiche.statistiche.pagate": {
         "name": "Piattaforma Notifiche/Statistiche/Pagate",
         "text": "Pagate",
-        "status": "FINAL"
+        "status": "FINAL",
+        "folder": null
       },
       "piattaforma-notifiche.statistiche.panoramica": {
         "name": "Piattaforma Notifiche/Statistiche/Panoramica",
         "text": "Panoramica",
         "status": "REVIEW",
+        "folder": null,
         "notes": "Sottosezione delle \"statistiche\" in cui si si visualizzano dei dati che si riferiscono all'intero periodo di utilizzo di PN."
       },
       "piattaforma-notifiche.statistiche.tempo-di-consegna": {
         "name": "Piattaforma Notifiche/Statistiche/Tempo di consegna",
         "text": "Tempo di consegna",
-        "status": "WIP"
+        "status": "WIP",
+        "folder": null
       },
       "piattaforma-notifiche.statistiche.visualizzate": {
         "name": "Piattaforma Notifiche/Statistiche/Visualizzate",
         "text": "Visualizzate",
         "status": "FINAL",
+        "folder": null,
         "notes": "Uno dei possibili stati di una notifica"
+      },
+      "test": {
+        "name": "Test",
+        "text": "Ci sono {{CountableVariable}} servizi a disposizione all’interno dell’app IO. ",
+        "status": "FINAL",
+        "folder": null,
+        "variables": {
+          "CountableVariable": {
+            "example": 1
+          }
+        },
+        "plurals": {
+          "other": "Ci sono {{CountableVariable}} servizi a disposizione all’interno dell’app IO. ",
+          "zero": "Non ci sono servizi a disposizione all’interno dell’app IO",
+          "one": "C’è un servizio a disposizione all’interno dell’app IO"
+        },
+        "notes": "È un componente di prova, va eliminato appena viene verificato"
       }
     }
   }
